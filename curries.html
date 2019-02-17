@@ -5,11 +5,12 @@ image_view: true
 <h1>Curries</h1>
 
 {% if page.image_view %}
-	{% for category in site.categories %}
+	{% for category in site.categories if category == "curries" %}
 		<h2>Curries</h2>
 		<div class="recipes">
-			{% for recipe in category[1] %}
+			{% for recipe in category[1] %}			
 				<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+					{{ recipe }}
 					<a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
 				</div>
 			{% endfor %}
