@@ -1,22 +1,20 @@
 - name: Home
   link: /
-- name: About
-  link: /about/
-- name: Chutneys
-  link: /chutneys/
-- name: Powders
-  link: /powders/
 - name: Curries
   link: /curries/
+- name: Chutneys
+  link: /chutneys/
 - name: Soups
   link: /soups/
-- name: Rice Dishes
-  link: /rice/
-- name: Desserts
-  link: /desserts/
+- name: Powders
+  link: /powders/
 - name: Snacks
   link: /snacks/
 - name: Entrée
   link: /entrees/
+- name: Desserts
+  link: /desserts/
+- name: About
+  link: /about/
 - name: Contact
   link: /contact/
