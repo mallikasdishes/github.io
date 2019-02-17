@@ -6,11 +6,10 @@ image_view: true
 
 {% if page.image_view %}
 	{% for category in site.categories %}
-            {{ category[0] }}
-            {% if category == "curries" %}
+            {% if category[0] == "curries" %}
 		<h2>Curries</h2>
 		<div class="recipes">
-			{% for recipe in category[1] %}			
+			{% for recipe in category[0] %}			
 			  <a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a></br>
 			{% endfor %}
 		</div>
