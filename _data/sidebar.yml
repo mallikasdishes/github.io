@@ -1,5 +1,5 @@
 author_image: /images/author.jpg
-description_markdown: "My name is **Mallika**, and I LOVE to cook! If you are looking for South Indian Dishes, you are in luck! Hope you enjoy the recipes on my website."
+description_markdown: "My name is **Mallika**, and I LOVE to cook! If you are looking for South Indian recipes, you came to the right place! Hope you enjoy the recipes on my website and contact me with any questions. Click to know more <a href="{{ site.baseurl }}/about/">about me</a>."
 facebook: mallikasdishes
 twitter: mallikasdishes
 pinterest: mallikasdishes
