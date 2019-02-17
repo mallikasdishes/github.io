@@ -2,7 +2,15 @@
   link: /
 - name: About
   link: /about/
-- name: Recipes
-  link: /recipes/
+- name: Chutneys
+  link: /chutneys/
+- name: Curries
+  link: /curries/
+- name: Soups
+  link: /soups/
+- name: Rice Dishes
+  link: /rice/
+- name: Desserts
+  link: /desserts/
 - name: Contact
   link: /contact/
