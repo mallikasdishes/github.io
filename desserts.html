@@ -1,0 +1,17 @@
+---
+title: Desserts
+image_view: true
+---
+<h1>{{ page.title }}</h1>
+
+{% if page.image_view %}
+	{% for category in site.categories %}
+            {% if category[0] == page.title %}
+		<div class="recipes">
+			{% for recipe in category[1] %}			
+			  <a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a></br>
+			{% endfor %}
+		</div>
+            {% endif %}
+	{% endfor %}
+{% endif %}
