@@ -8,9 +8,11 @@ image_view: true
 	{% for category in site.categories %}
             {% if category[0] == page.title %}
 		<div class="recipes">
+			<ul>
 			{% for recipe in category[1] %}			
-			<div><a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a></div>
+			<li><a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a></li>
 			{% endfor %}
+			</ul>
 		</div>
             {% endif %}
 	{% endfor %}
