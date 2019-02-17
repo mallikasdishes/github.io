@@ -6,6 +6,7 @@ image_view: true
 
 {% if page.image_view %}
 	{% for category in site.categories %}
+            {{ category }}
             {% if category == "curries" %}
 		<h2>Curries</h2>
 		<div class="recipes">
