@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
+title: Mallika's Dishes
+url: "https://http://www.mallikasdishes.com/"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -11,8 +11,8 @@ disqus_shortname: mallikasdishes-com
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Food blog template for Jekyll.
-author:
-  name:
+author: Mallika
+  name: Mallika Suresh
   email:
   twitter: # twitter username without the @ symbol
 social:
@@ -25,7 +25,7 @@ social:
 
 timezone: Etc/UTC
 
-paginate: 10
+paginate: 25
 paginate_path: "/:num/"
 permalink: pretty
 
@@ -75,9 +75,7 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
-  - LinkedIn
   - Pinterest
   - Tumblr
   - Twitter
