@@ -4,6 +4,8 @@
   link: /about/
 - name: Chutneys
   link: /chutneys/
+- name: Powders
+  link: /powders/
 - name: Curries
   link: /curries/
 - name: Soups
@@ -12,5 +14,9 @@
   link: /rice/
 - name: Desserts
   link: /desserts/
+- name: Snacks
+  link: /snacks/
+- name: Entrée
+  link: /entrees/
 - name: Contact
   link: /contact/
