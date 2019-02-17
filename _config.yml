@@ -10,10 +10,10 @@ disqus_shortname: mallikasdishes-com
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: Mallika's Recipes
 author: Mallika
   name: Mallika Suresh
-  email:
+  email: nomail@nomail.com
   twitter: # twitter username without the @ symbol
 social:
   name: Treat Template
