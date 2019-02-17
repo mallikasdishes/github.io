@@ -3,6 +3,7 @@ date: 2017-01-06
 title: Lemon Cake
 categories:
   - Cakes
+  - Curries
 featured_image: https://source.unsplash.com/NAN22eh754c/1560x940
 recipe:
   servings: 12 slices
