@@ -1,1 +1,1 @@
-## MallikasDishes.GitHub.IO
+## mallikasdishes.github.io
