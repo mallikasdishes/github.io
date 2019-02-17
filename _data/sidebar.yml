@@ -1,6 +1,6 @@
 author_image: /images/author.jpg
 description_markdown: |-
-  My name is **Mallika**, and I LOVE to cook! If you are looking for South Indian recipes, you came to the right place. Hope you enjoy the recipes on my website! <a href='{{ site.baseurl }}/about/'>click to know more about me</a>.
+  My name is **Mallika**, and I LOVE to cook! If you are looking for South Indian recipes, you came to the right place. Hope you enjoy the recipes on my website! <br/><a href='{{ site.baseurl }}/about/'>More about me</a>.
 facebook: mallikasdishes
 twitter: mallikasdishes
 pinterest: mallikasdishes
