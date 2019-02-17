@@ -1,11 +1,8 @@
-- link: /
-  name: Home
-- link: /about/
-  name: About
-- link: 
-    - link: /recipes/curry/
-      name: curries
-    - link: /recipes/gravy/
-      name: "Gravy Curries"
-- link: /contact/
-  name: Contact
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: Recipes
+  link: /recipes/
+- name: Contact
+  link: /contact/
