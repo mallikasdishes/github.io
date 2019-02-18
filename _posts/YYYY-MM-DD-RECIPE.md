@@ -12,8 +12,12 @@ date: 2017-01-05
 featured_image: "http://www.mallikasdishes.com/images/unknown.jpg"
 recipe:
   title: "The Title"
-  excerpt: "Blurb about the dish..."
-  description: "long version of blurb"
+  excerpt: |-
+    One or Two lines of text about recipe
+  description: |-
+    Paragraph 1
+
+    Paragraph 2
   cook_time: "30 minutes"
   prep_time: "20 minutes"
   servings: "5 to 6 Adults"
