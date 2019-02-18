@@ -8,7 +8,7 @@ recipe:
   excerpt: "Mysore Rasam is a South Indian dish, basically a spicy soup that is made of various spices and lentil/peas..."
   description: |-
       Mysore Rasam is a South Indian dish, basically a spicy soup that is made of various spices and lentil/peas. The name Mysore Rasam was given to this dish possibly because it was originated from Mysore, a prominent place in South India. If you are a spice lover, this is a must try dish, and is typically served with Rice, and also served with other breakfast items like Idli, Dosa, Pongal… more!
-      The primary ingredient in the Mysire Rasam is the Mysore Rasam Powder. Follow the steps below to learn how to make the key ingredient...
+      The primary ingredient in the Mysore Rasam is the Mysore Rasam Powder. Follow the steps below to learn how to make the key ingredient...
   cook_time: "15 minutes"
   prep_time: "5 minutes"
   servings: "15 servings"
