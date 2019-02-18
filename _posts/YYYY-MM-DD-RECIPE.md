@@ -2,6 +2,7 @@
 categories: 
   - Curries
   - Chutneys
+  - Pickles
   - Powders
   - Entrees
   - Soups
