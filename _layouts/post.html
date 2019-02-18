@@ -7,10 +7,6 @@ layout: default
 		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
 
-	<div class="recipe-body">
-		{{ content }}
-	</div>
-
 	<ul id="recipe" class="recipe-overview">
 		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
 		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
@@ -27,6 +23,10 @@ layout: default
 			<h2>Directions</h2>
 			{{ page.recipe.directions_markdown | markdownify }}
 		</div>
+	</div>
+
+	<div class="recipe-body">
+		{{ content }}
 	</div>
 
 	<div class="sharing">
