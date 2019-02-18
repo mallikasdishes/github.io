@@ -1,23 +1,27 @@
+{% assign class = "" %}
+{% if link.link == page.url %}
+	{% assign class = class | append: " active" %}
+{% endif %}
 <div class="topnav" id="myTopnav">
-  <a href="/" class="active">Home</a>
-  <a href="/recipes/">Recipes</a>
+  <a href="/" class="{{ class }}">Home</a>
+  <a href="/recipes/" class="{{ class }}">Recipes</a>
   <div class="dropdown">
     <button class="dropbtn">By Category 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="/powders/">Powders</a>
-      <a href="/chutneys/">Chutneys</a>
-      <a href="/curries/">Curries</a>
-      <a href="/entrees/">Entrees</a>
-      <a href="/desserts/">Desserts</a>
-      <a href="/soups/">Soups</a>
-      <a href="/snacks/">Snacks</a>      
+      <a href="/powders/" class="{{ class }}">Powders</a>
+      <a href="/chutneys/" class="{{ class }}">Chutneys</a>
+      <a href="/curries/" class="{{ class }}">Curries</a>
+      <a href="/entrees/" class="{{ class }}">Entrees</a>
+      <a href="/desserts/" class="{{ class }}">Desserts</a>
+      <a href="/soups/" class="{{ class }}">Soups</a>
+      <a href="/snacks/" class="{{ class }}">Snacks</a>      
     </div>
   </div>
   <div class="topnav-right">
-    <a href="/about/">About</a>
-    <a href="/contact/">Contact</a>
+    <a href="/about/" class="{{ class }}">About</a>
+    <a href="/contact/" class="{{ class }}">Contact</a>
   </div>  
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
