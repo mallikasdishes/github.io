@@ -4,6 +4,8 @@ title: New
 
 <h1>Latest Recipes</h1>
 
+Total Posts: {{ paginator.total_pages }}
+
 <section class="posts">
 	{% for post in paginator.posts %}
 		<article class="post">
