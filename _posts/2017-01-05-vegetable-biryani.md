@@ -42,14 +42,4 @@ In a rice cooker, add soaked Biryani rice, 7 ½ cups of water (as a general guid
 
 The Biryani is now ready. Serve it with a side dish - either Potato Masala Curry or Raita.
 
-![Cookie](https://source.unsplash.com/euGck1ifvp0)
-
-Carefully placing them on the tray.
-
-![Cookie](https://source.unsplash.com/RUPPakds28k)
-
-Little Gavin loves them.
-
-![Cookie](https://source.unsplash.com/YnrSLOAjOEA)
-
 Delicious!
