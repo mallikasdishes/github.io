@@ -9,7 +9,8 @@ image_view: true
             {% if category[0] == page.title %}
 		<div class="recipes">
 			<ul>
-			{% for recipe in category[1] %}			
+			{% assign sortedPosts = category[1] | sort: 'title' %}
+			{% for recipe in sortedPosts %}
 			<li><a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a></li>
 			{% endfor %}
 			</ul>
