@@ -40,6 +40,5 @@ recipe:
       None
   additional_comments: |-
       Seasoning - Take a frying pan, Heat 2 cups of vegetable oil and add 1 1/2 spoons of mustard seeds, 10 or 12 dried red chillies and 1/2 spoon Hing. Let the mustard seeds splutter and remove the flame and let it cool.
-      
-      Paragraph 2
+
 ---
