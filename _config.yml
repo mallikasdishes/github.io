@@ -58,6 +58,13 @@ defaults:
       layout: "default"
       push_sidebar_down: true
 
+  -
+    scope:
+      path: "new.html"
+    values:
+      layout: "default"
+      push_sidebar_down: true
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
