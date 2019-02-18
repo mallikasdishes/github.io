@@ -14,7 +14,7 @@ recipe:
   servings: "15 servings"
   difficulty: Medium difficulty
   ingredients_markdown: |-
-      * Coreander Seeds  - 1 Cup
+      * Coriander Seeds  - 1 Cup
       * Black Pepper - 2 Spoons
       * Red Chillis - 8 to 10 Count
       * Dry Coconut - 2 Spoons
@@ -22,7 +22,7 @@ recipe:
       * Jeera - 1 Spoon
       * Asafetida - 2 Pinches
   directions_markdown: |-
-      1. Take Coreander Seeds, Black Pepper Seeds, Red Chillies, Fenugreek seeds and Cumin Seeds in a non-stick pan, and fry for a little while – for a few minutes until the aroma comes out.
+      1. Take Coriander Seeds, Black Pepper Seeds, Red Chillies, Fenugreek seeds and Cumin Seeds in a non-stick pan, and fry for a little while – for a few minutes until the aroma comes out.
       2. Make sure you do not roast them - Once you start seeing the red chillies turning into black color, turn the stove off immediately and transfer the contents to a different pan.
       3. Also, it is advised not to use any oil in the pan while frying. We need to keep this as dry as possible. Adding oil while frying the spices will dampen the contents and adds unwanted moisture. 
       4. Add dry grated coconut in the end as you don’t want to roast the grated coconut.
