@@ -24,23 +24,20 @@ recipe:
       * Fenugreek Seeds - 1/4 Cup
       * Red Chilli Powder - 1 1/2 Cup
   directions_markdown: |-
-      1. do this...
-      2. do that...
+      1. Hopefully you've followed the preparation details. After waiting for a couple days...
+      2. On the third day, thoroughly mix it using a dry spoon.
+      3. Heat the pan and gently fry Fenugreek seeds till they are brown in color.
+      4. Let the Methi seeds (Fenugreek) cool down naturally, and then crush it into a fine powder.
+      5. Now add Fenugreek powder, red chilli powder into the lemon mixture, and thoroughly mix them together. You will see the juices flowing. Then add Seasoning... follow the step below in the additional comments section.
+      6. Mix both Seasoning and Prepared Lemon mixture well and store in a dry container.
+      7. You can start eating after a couple of days. If you wait longer, the lemon pieces will be soft and will not have that sour taste.
+      8. Keep it in the refrigerator for longer life.
   preparation_details: |-
       1. Wash, clean and dry all the 12 lemons. Cut 8 lemons into 8 or 9 small pieces and Remove the seeds. Keep the remaining 4 for juice.
       2. Add salt and turmeric powder, mix well with a dry spoon.
       3. Squeeze the rest of 4 Lemons into the mix, and keep it aside for 2 full days or 48 hours - whichever comes first.
-      4. On the third day, thoroughly mix it using a dry spoon.
-      5. Heat the pan and gently fry Fenugreek seeds till they are brown in color.
-      6. Let the Methi seeds (Fenugreek) cool down naturally, and then crush it into a fine powder.
-      7. Now add Fenugreek powder, red chilli powder into the lemon mixture, and thoroughly mix them together. You will see the juices flowing. Then add Seasoning... follow the step below in the additional comments section.
-      8. Mix both Seasoning and Prepared Lemon mixture well and store in a dry container.
-      9. You can start eating after a couple of days. If you wait longer, the lemon pieces will be soft and will not have that sour taste.
-      10. Keep it in the refrigerator for longer life.
   other_details: |-
-      Paragraph 1
-      
-      Paragraph 2
+      None
   additional_comments: |-
       Seasoning - Take a frying pan, Heat 2 cups of vegetable oil and add 1 1/2 spoons of mustard seeds, 10 or 12 dried red chillies and 1/2 spoon Hing. Let the mustard seeds splutter and remove the flame and let it cool.
       
