@@ -2,79 +2,78 @@
 {% if link.link == page.url %}
   {% assign class = class | append: " active" %}
 {% endif %}
+
 <div class="topnav" id="myTopnav">
-  {% if page.url == "/" %}
-    <a href="/" class="active">Home</a>
-  {% else %}
-    <a href="/">Home</a>
-  {% endif %}
-  
-  {% if page.url == "/recipes/" %}
-    <a href="/recipes/" class="active">Recipes</a>
-  {% else %}
-    <a href="/recipes/">Recipes</a>
-  {% endif %}
- 
   <div class="dropdown">
-    <button class="dropbtn">By Category 
+    <button class="dropbtn">Home
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      {% if page.url == "/powders/" %}
-        <a href="/powders/" class="active">Powders</a>
-      {% else %}
-        <a href="/powders/">Powders</a>
-      {% endif %}
-
-      {% if page.url == "/chutneys/" %}
-        <a href="/chutneys/" class="active">Chutneys</a>
-      {% else %}
-        <a href="/chutneys/">Chutneys</a>
-      {% endif %}
-      
-      {% if page.url == "/curries/" %}
-        <a href="/curries/" class="active">Curries</a>
-      {% else %}
-        <a href="/curries/">Curries</a>
-      {% endif %}
-
-      {% if page.url == "/entrees/" %}
-        <a href="/entrees/" class="active">Entrees</a>
-      {% else %}
-        <a href="/entrees/">Entrees</a>
-      {% endif %}
-
-      {% if page.url == "/desserts/" %}
-        <a href="/desserts/" class="active">Desserts</a>
-      {% else %}
-        <a href="/desserts/">Desserts</a>
-      {% endif %}
-
-      {% if page.url == "/soups/" %}
-        <a href="/soupd/" class="active">Soups</a>
-      {% else %}
-        <a href="/soups/">Soups</a>
-      {% endif %}
-      
-      {% if page.url == "/snacks/" %}
-        <a href="/snacks/" class="active">Snacks</a>
-      {% else %}
-        <a href="/snacks/">Snacks</a>
-      {% endif %}
+	  {% if page.url == "/" %}
+		<a href="/" class="active">Home</a>
+	  {% else %}
+		<a href="/">Home</a>
+	  {% endif %}
+	  {% if page.url == "/about/" %}
+		<a href="/about/" class="active">About</a>
+	  {% else %}
+		<a href="/about/">About</a>
+	  {% endif %}
+	  {% if page.url == "/contact/" %}
+		<a href="/contact/" class="active">Contact</a>
+	  {% else %}
+		<a href="/contact/">Contact</a>
+	  {% endif %}
     </div>
   </div>
+  
+  {% if page.url == "/recipes/" %}
+    <a href="/recipes/" class="active">New Recipes</a>
+  {% else %}
+    <a href="/recipes/">New Recipes</a>
+  {% endif %}
+ 
+  {% if page.url == "/curries/" %}
+	<a href="/curries/" class="active">Curries</a>
+  {% else %}
+	<a href="/curries/">Curries</a>
+  {% endif %}
 
-  <div class="topnav-right">
-  {% if page.url == "/about/" %}
-    <a href="/about/" class="active">About</a>
+  {% if page.url == "/chutneys/" %}
+	<a href="/chutneys/" class="active">Chutneys</a>
   {% else %}
-    <a href="/about/">About</a>
+	<a href="/chutneys/">Chutneys</a>
   {% endif %}
-  {% if page.url == "/contact/" %}
-    <a href="/contact/" class="active">Contact</a>
+
+  {% if page.url == "/powders/" %}
+	<a href="/powders/" class="active">Powders</a>
   {% else %}
-    <a href="/contact/">Contact</a>
+	<a href="/powders/">Powders</a>
   {% endif %}
-  </div>
+
+  {% if page.url == "/entrees/" %}
+	<a href="/entrees/" class="active">Entrées</a>
+  {% else %}
+	<a href="/entrees/">Entrées</a>
+  {% endif %}
+
+  {% if page.url == "/soups/" %}
+	<a href="/soupd/" class="active">Soups</a>
+  {% else %}
+	<a href="/soups/">Soups</a>
+  {% endif %}
+  
+  {% if page.url == "/snacks/" %}
+	<a href="/snacks/" class="active">Snacks</a>
+  {% else %}
+	<a href="/snacks/">Snacks</a>
+  {% endif %}
+
+  {% if page.url == "/desserts/" %}
+	<a href="/desserts/" class="active">Desserts</a>
+  {% else %}
+	<a href="/desserts/">Desserts</a>
+  {% endif %}
+
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
