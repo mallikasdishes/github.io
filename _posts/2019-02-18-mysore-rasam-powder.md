@@ -29,7 +29,7 @@ recipe:
       5. Once frying is complete, let it cool for a few minutes. Do not keep it in the refrigerator to speed up the cooling process – it will add unwanted moisture. It has to cool down naturally.
       6. Once it cools down to the room temperature, grind them to powder and store it in a vacuum sealed or air-tight container.
   preparation_details: |-
-      Make sure you ONLY fry under medium flame
+      1. Make sure you ONLY fry under medium flame
   other_details: |-
       None
   additional_comments: |-
