@@ -1,28 +1,80 @@
 {% assign class = "" %}
-{{ link.link }} - {{ page.url }}
 {% if link.link == page.url %}
   {% assign class = class | append: " active" %}
 {% endif %}
 <div class="topnav" id="myTopnav">
-  <a href="/" class="{{ class }}">Home</a>
-  <a href="/recipes/" class="{{ class }}">Recipes</a>
+  {% if page.url == "/" %}
+    <a href="/" class="active">Home</a>
+  {% else %}
+    <a href="/">Home</a>
+  {% endif %}
+  
+  {% if page.url == "/recipes/" %}
+    <a href="/recipes/" class="active">Recipes</a>
+  {% else %}
+    <a href="/recipes/">Recipes</a>
+  {% endif %}
+ 
   <div class="dropdown">
     <button class="dropbtn">By Category 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="/powders/" class="{{ class }}">Powders</a>
-      <a href="/chutneys/" class="{{ class }}">Chutneys</a>
-      <a href="/curries/" class="{{ class }}">Curries</a>
-      <a href="/entrees/" class="{{ class }}">Entrees</a>
-      <a href="/desserts/" class="{{ class }}">Desserts</a>
-      <a href="/soups/" class="{{ class }}">Soups</a>
-      <a href="/snacks/" class="{{ class }}">Snacks</a>      
+      {% if page.url == "/powders/" %}
+        <a href="/powders/" class="active">Powders</a>
+      {% else %}
+        <a href="/powders/">Powders</a>
+      {% endif %}
+
+      {% if page.url == "/chutneys/" %}
+        <a href="/chutneys/" class="active">Chutneys</a>
+      {% else %}
+        <a href="/chutneys/">Chutneys</a>
+      {% endif %}
+      
+      {% if page.url == "/curries/" %}
+        <a href="/curries/" class="active">Curries</a>
+      {% else %}
+        <a href="/curries/">Curries</a>
+      {% endif %}
+
+      {% if page.url == "/entrees/" %}
+        <a href="/entrees/" class="active">Entrees</a>
+      {% else %}
+        <a href="/entrees/">Entrees</a>
+      {% endif %}
+
+      {% if page.url == "/desserts/" %}
+        <a href="/desserts/" class="active">Desserts</a>
+      {% else %}
+        <a href="/desserts/">Desserts</a>
+      {% endif %}
+
+      {% if page.url == "/soups/" %}
+        <a href="/soupd/" class="active">Soups</a>
+      {% else %}
+        <a href="/soups/">Soups</a>
+      {% endif %}
+      
+      {% if page.url == "/snacks/" %}
+        <a href="/snacks/" class="active">Snacks</a>
+      {% else %}
+        <a href="/snacks/">Snacks</a>
+      {% endif %}
     </div>
   </div>
+
   <div class="topnav-right">
-    <a href="/about/" class="{{ class }}">About</a>
-    <a href="/contact/" class="{{ class }}">Contact</a>
-  </div>  
+  {% if page.url == "/about/" %}
+    <a href="/about/" class="active">About</a>
+  {% else %}
+    <a href="/about/">About</a>
+  {% endif %}
+  {% if page.url == "/contact/" %}
+    <a href="/contact/" class="active">Contact</a>
+  {% else %}
+    <a href="/contact/">Contact</a>
+  {% endif %}
+  </div>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
