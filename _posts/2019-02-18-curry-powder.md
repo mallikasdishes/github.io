@@ -29,7 +29,7 @@ recipe:
       4. Grind all ingredients except garlic. Make a coarse powder, and finally add garlic grind once again. It doesn't take much for garlic to mix in.
       5. Store in air tight container and is ready for use.
   preparation_details: |-
-      The key to the preparation of this curry powder is frying the ingredients in Medium Flame. The taste varies on how dark you fry the ingredients. Make sure you dont burn the ingredients.
+      1. The key to the preparation of this curry powder is frying the ingredients in Medium Flame. The taste varies on how dark you fry the ingredients. Make sure you dont burn the ingredients.
   other_details: |-
       None
   additional_comments: |-
