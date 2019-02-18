@@ -34,8 +34,9 @@ recipe:
       * 1 Cup Vegetable Oil
   prep: "20 minutes"
   servings: "5 to 6 Adults"
-title: "Vegetable Biryani"
+  title: "Vegetable Biryani"
 
+---
 Final Step:
 In a rice cooker, add soaked Biryani rice, 7 ½ cups of water (as a general guide, for each cup of rice, use 1 ½ cup of water to cook evenly), Biryani mixture, remaining salt and leave the cooker ON for about 30 minutes. Mix the contents in the cooker ONCE after 15 minutes or so for nice even cooking.
 
