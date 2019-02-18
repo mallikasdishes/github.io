@@ -2,7 +2,7 @@
 categories: 
   - Entrees
 date: 2017-01-05
-featured_image: "https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop"
+featured_image: "http://www.mallikasdishes.com/images/veg_biryani.jpg"
 recipe: 
   cook: "30 minutes"
   directions_markdown: |-
