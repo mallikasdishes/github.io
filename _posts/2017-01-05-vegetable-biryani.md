@@ -35,8 +35,12 @@ recipe:
   prep: "20 minutes"
   servings: "5 to 6 Adults"
   title: "Vegetable Biryani"
+  description: |-
+      Vegetable Biryani is a famous Indian dish, made of vegetables, whole lot of spices and Rice. There are many varieties and flavors of Biryani available, and almost every city in India has their own specialized Biryani. The following recipe is my version of a simple Vegetable Biryani. The Rice used in this dish is typically Basmati Rice. It is different from regular long grain rice available in stores, where it has a distinct flavor/fragrance to it when cooked.
+      Biryani is typically a primary dish, usually served hot with a side dish - either Raita (made of Yogurt) or Potato Masala Curry. Please feel free to adjust spice levels, and add other vegetables (or meats - if you are into) of your interest.
 
 ---
+
 Final Step:
 In a rice cooker, add soaked Biryani rice, 7 ½ cups of water (as a general guide, for each cup of rice, use 1 ½ cup of water to cook evenly), Biryani mixture, remaining salt and leave the cooker ON for about 30 minutes. Mix the contents in the cooker ONCE after 15 minutes or so for nice even cooking.
 
