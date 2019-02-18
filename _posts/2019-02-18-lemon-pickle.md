@@ -42,8 +42,8 @@ recipe:
       2. Add salt and turmeric powder, mix well with a dry spoon.
       3. Squeeze the rest of 4 Lemons into the mix, and keep it aside for 2 full days or 48 hours - whichever comes first.
   other_details: |-
-      1. The trick to keep the lemon pickle to last longer is to keep the moisture away or direct contact with moisture away. **DO NOT** use wet spoons, unclean spoons and leave the lid open in a moist environment.
-      2. Always keep the pickle in an air tight container, and use clean utensils when serving.
+      1. The trick to keep the pickle last longer is to keep the moisture away. **DO NOT** use wet spoons, unclean spoons, or leave the lid open in a high humid/moist environment.
+      2. Always keep the pickle in an air-tight container, and use clean utensils when serving.
       3. It is always best not to touch the pickle directly with your fingers inside the jar.
       4. Definitely, no licking and double dipping your fingers!
   additional_comments: |-
