@@ -36,6 +36,7 @@ recipe:
   servings: "5 to 6 Adults"
   title: "Vegetable Biryani"
   difficulty: medium
+  excerpt: Vegetable Biryani is a famous Indian dish, made of vegetables, whole lot of spices and Rice. There are many varieties and flavors of Biryani available, and almost every city in India has their own specialized Biryani. The following recipe is my version of a simple Vegetable Biryani. The Rice used in this dish is typically Basmati Rice. It is different from regular long grain rice available in stores, where it has a distinct flavor/fragrance to it when cooked.
   description: |-
       Vegetable Biryani is a famous Indian dish, made of vegetables, whole lot of spices and Rice. There are many varieties and flavors of Biryani available, and almost every city in India has their own specialized Biryani. The following recipe is my version of a simple Vegetable Biryani. The Rice used in this dish is typically Basmati Rice. It is different from regular long grain rice available in stores, where it has a distinct flavor/fragrance to it when cooked.
       Biryani is typically a primary dish, usually served hot with a side dish - either Raita (made of Yogurt) or Potato Masala Curry. Please feel free to adjust spice levels, and add other vegetables (or meats - if you are into) of your interest.
