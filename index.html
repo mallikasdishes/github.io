@@ -25,7 +25,7 @@ Many of my family and friends ask me for recipes, and this website makes it easy
 				<img src="{{ post.featured_image }}" alt="{{ post.title }}">
 			</div>
 
-			{{ post.recipe.excerpt }}
+			{{ post.recipe.excerpt | markdownify }}
 
 			<p><a class="button" href="{{ post.url }}">Read more</a></p>
 		</article>
