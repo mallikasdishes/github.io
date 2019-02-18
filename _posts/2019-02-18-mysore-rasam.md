@@ -25,11 +25,11 @@ recipe:
       * Mustard Seeds - 1/4 Spoon
       * Ghee/Oil - 1 Spoon
   directions_markdown: |-
-      1. Boil 1 cup of Toor Dal in a cooker and place the cooked Toor Dal and a tomatoes in a mixer and blend them to a nice and soft/fine paste. You might want to cut the tomatoes before throwing them in the blender. 
-      2. Take a bowl, and add Mysore Rasam Mixture from Step 1, combined with the Toor Dal & Tomato paste.
-      3. Add Tamarind juice and add 2 to 4 cups of water and boil for 10 minutes to make the soup.
-      4. Once the soup starts to boil, turn the stove off and top it off with a little bit of seasoning, and finely chopped cilantro.
-      5. Seasoning - Heat one table spoon of either Ghee or Oil, and let it heat up in a small pan. Once the oil starts to heat up, add mustard seeds, Cumin Seeds, Hing, Curry leaves, and dump it onto the soup and mix well once.
+      * Boil 1 cup of Toor Dal in a cooker and place the cooked Toor Dal and a tomatoes in a mixer and blend them to a nice and soft/fine paste. You might want to cut the tomatoes before throwing them in the blender. 
+      * Take a bowl, and add Mysore Rasam Mixture from Step 1, combined with the Toor Dal & Tomato paste.
+      * Add Tamarind juice and add 2 to 4 cups of water and boil for 10 minutes to make the soup.
+      * Once the soup starts to boil, turn the stove off and top it off with a little bit of seasoning, and finely chopped cilantro.
+      * Seasoning - Heat one table spoon of either Ghee or Oil, and let it heat up in a small pan. Once the oil starts to heat up, add mustard seeds, Cumin Seeds, Hing, Curry leaves, and dump it onto the soup and mix well once.
   preparation_details: |-
       1. Chop the tomatoes into small pieces and put them in a blender them into a nice soft paste, or use ready made Tomato Paste
   
