@@ -25,14 +25,14 @@ layout: default
 		</div>
 
 		<div class="directions">
-			<h2>Directions</h2>
-			{{ page.recipe.directions_markdown | markdownify }}
+			<h2>Preparation</h2>
+			{{  page.recipe.preparation_details | markdownify }}
 		</div>
 	</div>
 
 	<div class="recipe-body">
-		<h2>Preparation</h2>
-		{{  page.recipe.preparation_details | markdownify }}
+			<h2>Directions</h2>
+			{{ page.recipe.directions_markdown | markdownify }}
 	</div>
 	<div class="recipe-body">
 		<h2>Other Details</h2>
