@@ -1,77 +1,8 @@
-- title: Home
-  url: "/"
-  side: left
-  dropdown:
-  - title: Getting Started
-    url: "/getting-started/"
-
-- title: My Dashboard
-  url: "/dashboard/"
-  side: left
-
-- title: "My Smart Devices"
-  url: "/smarthome-devices/"
-  side: left
-  dropdown:
-  - title: "Lights & Switches"
-    url: "/smarthome-devices/switches/"
-  - title: "Smart Outlets"
-    url: "/smarthome-devices/outlets/"
-  - title: "Home Security System"
-    url: "/smarthome-devices/security/"
-  - title: "Sensors"
-    url: "/smarthome-devices/sensors/"
-  - title: "LED Strips"
-    url: "/smarthome-devices/led/"
-  - title: "Thermostat"
-    url: "/smarthome-devices/thermostat/"
-  - title: "Z-Wave"
-    url: "/smarthome-devices/zwave/"
-  - title: "Multimedia"
-    url: "/smarthome-devices/media/"
-  - title: "Garage"
-    url: "/smarthome-devices/garage/"
-  - title: "hardware"
-    url: "/smarthome-devices/hardware/"
-  - title: "DIY"
-    url: "/smarthome-devices/diy/"
-  - title: "Gateways/Hubs"
-    url: "/smarthome-devices/gateway/"
-
-- title: "Automations"
-  url: "/ideas/"
-  side: left
-  dropdown:
-  - title: "Lights & Switches"
-    url: "/ideas/switch/"
-  - title: "Cameras"
-    url: "/ideas/camera/"
-  - title: "Home Security System"
-    url: "/ideas/security/"
-  - title: "LED Strips"
-    url: "/ideas/led/"
-  - title: "Thermostat"
-    url: "/ideas/thermostat/"
-  - title: "Device Trackers"
-    url: "/ideas/devicetracker/"
-  - title: "Zones"
-    url: "/ideas/zone/"
-  - title: "Garage"
-    url: "/ideas/garage/"
-  - title: "Media Players"
-    url: "/ideas/media/"
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/info/"
-  side: right
+- name: Home
+  link: /
+- name: Recipes
+  link: /recipes/
+- name: About
+  link: /about/
+- name: Contact
+  link: /contact/
