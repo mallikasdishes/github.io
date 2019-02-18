@@ -25,7 +25,7 @@ social:
 
 timezone: Etc/UTC
 
-paginate: 25
+paginate: 10
 paginate_path: "/:num/"
 permalink: pretty
 
@@ -36,7 +36,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      push_sidebar_down: false
+      push_sidebar_down: true
       print_stylesheet: true
       comments: true
       _options:
@@ -53,7 +53,7 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "index.html"
+      path: "new.html"
     values:
       layout: "default"
       push_sidebar_down: true
