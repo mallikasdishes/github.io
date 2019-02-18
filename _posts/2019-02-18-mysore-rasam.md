@@ -11,19 +11,19 @@ recipe:
   
       To make this dish, first you have to make the Spicy Rasam mixture – we should be calling it Mysore Rasam Mixture as this is different from a typical “Rasam” powder/mixture. Once you make the Mysore Rasam mixture, you can store it in an air tight container, and can last anywhere between 3 to 6 months when stored in a non-humid environment. Once you have the mixture, it is extremely easy to make the Soup, just follow the steps and you will be done in no time.
       
-      Even though this was not a common dish when and where I grew up, it was passed on to me by my family. Once I tasted this, I could not stop making it every now and then. This is one of my and my family's favorite "Rasam" of all time! This soup also works at its best when have cold and you want something hot and spicy to clear your throat and take your taste buds for a ride.
+      Even though this was not a common dish when and where I grew up, it was passed on to me by my family. Once I tasted this, I could not stop making it every now and then. This is one of my and my family's favorite "Rasam" of all time! This soup also works at its best when have cold and you want something hot and spicy to clear your throat, sinus, and take your taste buds for a ride.
   cook_time: "30 minutes"
   prep_time: "20 minutes"
   servings: "5 to 6 Adults"
   difficulty: Medium difficulty
   ingredients_markdown: |-
       * Toor Dal - 1 Cup
-      * Tomatoes - 4
-      * Tamarind - size of a lemon
-      * Jaggery
-      * Cilantro
-      * Mustard Seeds
-      * Ghee/Oil
+      * Tomatoes - 4 Count
+      * Tamarind - Size of a Lemon
+      * Jaggery - 1/2 inch cube
+      * Cilantro - few leaves
+      * Mustard Seeds - 1/4 Spoon
+      * Ghee/Oil - 1 Spoon
   directions_markdown: |-
       1. Boil 1 cup of Toor Dal in a cooker and place the cooked Toor Dal and a tomatoes in a mixer and blend them to a nice and soft/fine paste. You might want to cut the tomatoes before throwing them in the blender. 
       2. Take a bowl, and add Mysore Rasam Mixture from Step 1, combined with the Toor Dal & Tomato paste.
@@ -35,7 +35,7 @@ recipe:
   
       2. Prepare Tamarind Juice - Take a lemon size Tamarind, and soak it in warm water for about 15 minutes, and remove any seeds and put it in blender until it is nice and soft cream.
       
-      3. You also need a **key** ingredient [Mysore Rasam powder](http://www.mallikasdishes.com/powders/2017/02/18/mysore-rasam-powder/) to make Mysore Rasam. Make sure you make the powder first before continuing with making the actual Mysore Rasam soup.
+      3. You also need a **key** ingredient [Mysore Rasam Powder](http://www.mallikasdishes.com/powders/2017/02/18/mysore-rasam-powder/) to make Mysore Rasam. Make sure you make the powder first before continuing with making the actual Mysore Rasam soup.
   other_details: |-
       Right before you serve, add some finely chopped cilantro!
   additional_comments: |-
