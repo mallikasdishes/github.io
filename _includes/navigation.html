@@ -27,12 +27,18 @@
     </div>
   </div>
   
-  {% if page.url == "/recipes/" %}
-    <a href="/recipes/" class="active">New Recipes</a>
+  {% if page.url == "/new/" %}
+    <a href="/new/" class="active">New Recipes</a>
   {% else %}
-    <a href="/recipes/">New Recipes</a>
+    <a href="/new/">New Recipes</a>
   {% endif %}
- 
+
+  {% if page.url == "/recipes/" %}
+    <a href="/recipes/" class="active">All Recipes</a>
+  {% else %}
+    <a href="/recipes/">All Recipes</a>
+  {% endif %}
+
   {% if page.url == "/curries/" %}
 	<a href="/curries/" class="active">Curries</a>
   {% else %}
