@@ -12,8 +12,16 @@ recipe:
   servings: "15 servings"
   difficulty: Medium difficulty
   ingredients_markdown: |-
-      * 1 this
-      * 1 that...
+      * Bengal Gram - 1 Cup
+      * Black Gram - 1 Cup
+      * Peanuts - 1 Tablespoon
+      * White Sesame Seeds - ½ Cup
+      * Coriander Seeds - 1 Cup
+      * Cumin Seeds - 2 Table Spoons
+      * Fenugreek Seeds - ¼ Table Spoon
+      * Dried Red Chillies - 10 to 15 Count
+      * Garlic Pods - 5 Count
+      * Salt - ½ Spoon
   directions_markdown: |-
       1. Take a wide pan and heat it on high flame for a minute and then reduce the flame to medium
       2. Add in all the ingredients expect garlic pods and fry till they turn golden brown or little red
