@@ -1,6 +1,7 @@
 {% assign class = "" %}
+{{ link.link }} - {{ page.url }}
 {% if link.link == page.url %}
-	{% assign class = class | append: " active" %}
+  {% assign class = class | append: " active" %}
 {% endif %}
 <div class="topnav" id="myTopnav">
   <a href="/" class="{{ class }}">Home</a>
