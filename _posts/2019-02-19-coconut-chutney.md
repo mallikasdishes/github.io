@@ -9,7 +9,7 @@ recipe:
   description: |-
     Coconut Chutney is an extremely famous chutney in India, and anytime you walk into any of the South Indian restaurants, they serve this Chutney along with many breakfast items, and is also served during main course. This chutney is loaded with flavor, and when eaten with hot rice and pure ghee, it feels like you're literally in heaven!. It simply tastes that good!
     
-    There is little bit of tradition and history to this chutney. According to the Hindu religion, Coconut is considered one of the purest form of fruit one can offer to God. Many families buy coconuts along with vegetables from markets, and offer coconuts to God as part of their regular prayer to God at home. I know our family did atleast once a week. After the prayer, they break the coconut, the coconut water becomes holy water, and the inner core usually ends up  in chutneys or other recipes 😊
+    There is little bit of tradition and history to this chutney. According to the Hindu religion, Coconut is considered one of the purest form of fruit one can offer to God. Many families buy coconuts along with vegetables from markets, and offer coconuts to God as part of their regular prayer at home. After the prayer, they break the coconut, the coconut water becomes holy water, and the inner core usually ends up in chutneys or other recipes 😊
     
     Follow the instructions below on how to make this wonderful chutney. It is SO easy to make and tastes SO delicious!
   cook_time: "5 minutes"
