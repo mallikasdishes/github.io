@@ -16,7 +16,7 @@ recipe:
   ingredients_markdown: |-
       * Coriander Seeds  - 1 Cup
       * Black Pepper - 2 Spoons
-      * Red Chillis - 8 to 10 Count
+      * Dried Red Chillis - 8 to 10 Count
       * Dry Coconut - 2 Spoons
       * Fenugreek Seeds - 1 Spoon
       * Jeera - 1 Spoon
