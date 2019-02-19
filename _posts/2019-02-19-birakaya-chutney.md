@@ -17,7 +17,7 @@ recipe:
       * Chana Dal - 2 TSP
       * Urad Dal - 2 TSP
       * Peanuts - 2 TSP
-      * Nuvula pappu - 1 TSP
+      * White Sesame Seeds - 1 TSP
       * Tamarind - Size of a small lemon
       * Red Chillies - 5 to 6 Count
       * Peanut Oil - 3 to 5 TSP 
