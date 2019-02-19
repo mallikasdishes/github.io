@@ -21,7 +21,7 @@ recipe:
       * Black Gram - 1 Cup
       * Fenugreek Seeds - ½ Cup
       * Black Pepper Seeds - ¼ Cup
-      * Red Chillies - 25 quantity
+      * Dried Red Chillies - 25 quantity
   other_details: "The powder should not be used for more than 6 months - It looses its taste over the period of time. It is best to make it fresh."
   prep_time: "10 minutes"
   preparation_details: None
