@@ -28,13 +28,13 @@ recipe:
       * Salt - 1/2 tbsp
       * Tamarind - 1 tbsp
   directions_markdown: |-
-      1. Heat oil in pan and fry all ingredients for a few minutes. Keep it aside 
-      2. Let it cool down
-      3. Grind all ingredients
-      4. Grind coconut coarse paste
-      5. Enjoy!
+      1. Heat oil in pan and fry all ingredients for a few minutes.
+      2. Set the pan aside and let it cool down for a few minutes.
+      3. Put all the fried ingredients into a blender and blend it into a coarse paste.
+      4. Enjoy!
   preparation_details: |-
-      1. Cut the coconut into small pieces, and remove any hard shell that you may have
+      1. Cut the coconut into small pieces, and remove any hard shell
+      2. Shred the coconut by putting the pieces in the blender - do not make it into paste!
   other_details: |-
       None
   additional_comments: |-
