@@ -7,13 +7,13 @@ image_view: true
 {% if page.image_view %}
 	{% for category in site.categories %}
             {% if category[0] == page.title %}
-		<div class="recipes">
-			<ul>
+		<div class="recipe-body">
+			<ol>
 			{% assign sortedPosts = category[1] | sort: 'title' %}
 			{% for recipe in sortedPosts %}
 			<li><a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a></li>
 			{% endfor %}
-			</ul>
+			</ol>
 		</div>
             {% endif %}
 	{% endfor %}
