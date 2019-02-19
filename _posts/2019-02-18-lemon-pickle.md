@@ -45,7 +45,7 @@ recipe:
       1. Wash, clean and dry all the 12 lemons. Cut 8 lemons into 8 or 9 small pieces and remove seeds. Keep the remaining 4 lemons for juice.
       2. Add salt and turmeric powder, mix well with a dry spoon.
       3. Squeeze the rest of 4 Lemons into the mix, and keep it aside for 2 full days or 48 hours - whichever comes first.
-      4. Make sure you keep a lid on it to keep insects or flies away. Remember, this website is all about being vegetarian and live a healthy life!
+      4. Make sure you keep a lid on it to keep insects, flies or dinosaurs away.
   other_details: |-
       1. The trick to keep the pickle last longer is to keep the moisture away. **DO NOT** use wet spoons, unclean spoons, or leave the lid open in a high humid/moist environment.
       2. Always keep the pickle in an air-tight container, and use clean utensils when serving.
