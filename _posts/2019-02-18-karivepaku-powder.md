@@ -22,7 +22,7 @@ recipe:
       * Chana Dal - ½ Cup
       * Black Gram - ½ Cup
       * Cumin Seeds - 1 Spoon
-      * Seedless Tamarind - Size of alemon
+      * Seedless Tamarind - Size of a Lemon
       * Curry Leaves - 4 bunches
       * Salt - 1½ Spoon
       * Asafoetida - 2 pinches
