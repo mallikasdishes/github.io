@@ -29,7 +29,7 @@ recipe:
       * Red Chilli Powder - 1 1/2 Cup
       * Asafoetida - 1/2 Spoon
       * Mustard Seeds - 1 1/2 Spoons
-      * Red Chillis - 10 to 12 Count
+      * Dried Red Chillis - 10 to 12 Count
       * Vegetable Oil - 2 Cups
   directions_markdown: |-
       1. Hopefully you've followed the preparation details. After waiting for a couple days...
