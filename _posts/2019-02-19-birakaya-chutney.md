@@ -14,18 +14,18 @@ recipe:
   difficulty: "Medium difficulty"
   ingredients_markdown: |-
       * Ridge Gourd - 2 Count
-      * Chana Dal - 2 TSP
-      * Urad Dal - 2 TSP
-      * Peanuts - 2 TSP
-      * White Sesame Seeds - 1 TSP
+      * Chana Dal - 2 tsp
+      * Urad Dal - 2 tsp
+      * Peanuts - 2 tsp
+      * White Sesame Seeds - 1 tsp
       * Tamarind - Size of a small lemon
       * Dried Red Chillies - 5 to 6 Count
-      * Peanut Oil - 3 to 5 TSP 
-      * Fenugreek Seeds - 1/2 TSP
-      * Mustard Seeds - 1/2 TSP
-      * Jeera - 1/2 TSP
+      * Peanut Oil - 3 to 5 tsp 
+      * Fenugreek Seeds - 1/2 tsp
+      * Mustard Seeds - 1/2 tsp
+      * Jeera - 1/2 tsp
       * Asafoetida - 1 Pinch
-      * Salt - 1 1/2 TSP (add more as needed)
+      * Salt - 1 1/2 tsp (add more as needed)
       * Jaggery - 1/2 inch Cube
   directions_markdown: |-
       1. Take a pan and add some vegetable/peanut oil, fry all ingredients, then keep it aside.
