@@ -5,7 +5,7 @@ date: 2017-02-18
 featured_image: "http://www.mallikasdishes.com/images/curry_powder.jpg"
 recipe:
   title: "Curry Powder"
-  excerpt: "Main ingredient in most of the South Indian Curries - A secret sause of indian mothers!"
+  excerpt: "Main ingredient in most of the South Indian Curries - A secret sauce of indian mothers!"
   description: "Curry Powder is THE main ingredient in most of the Indian curries. Without this, the curries would not taste good!"
   cook_time: "15 minutes"
   prep_time: "5 minutes"
