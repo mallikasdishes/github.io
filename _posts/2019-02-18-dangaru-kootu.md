@@ -16,8 +16,7 @@ recipe:
   ingredients_markdown: |-
       * Yogurt - 1 Cup
       * Red Chilli Powder - 1 Spoon
-      * Toor Dal - 1 Cup
-      * Black Gram Powder (Minappindi) - 1/2 Spoon
+      * Black Gram Powder (Minappindi) - 2 Spoons
       * Salt - As needed
       * Asafoetida - 1 Pinch
       * Limes - 2 Count
