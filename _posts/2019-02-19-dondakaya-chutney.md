@@ -6,11 +6,11 @@ featured_image: "http://www.mallikasdishes.com/images/dondakaya_chutney.jpg"
 recipe:
   title: "Dondakaya Chutney"
   excerpt: "Dondakaya (Tindora, or Ivy Gourd) is a vegetable from Gourd family that grows on a vine in a tropical weather."
-  description: "Dondakaya (Tindora, or Ivy Gourd) is a vegetable from Gourd family that grows on a vine in a tropical weather. The Dondakaya Chutney is typically served with Rice and/or Rotis/Chapathis.
+  description: "Dondakaya (Tindora, or Ivy Gourd) is a vegetable from Gourd family that grows on a vine in a tropical weather. The Dondakaya Chutney is typically served with Rice and/or Rotis/Chapathis."
   cook_time: "15 minutes"
   prep_time: "20 minutes"
   servings: "5 to 6 Adults"
-  difficulty: Medium difficulty
+  difficulty: "Medium difficulty"
   ingredients_markdown: |-
       * DondaKayalu (Tindora) - 15 count
       * Chana Dal - 1 1/2 tsp
@@ -28,12 +28,11 @@ recipe:
       1. Put a couple of spoons of oil in a pan, and heat the oil.
       2. When the oil is hot enough, add Chana Dal, Urad Dal, Cumin Seeds, Mustard Seeds, Garlic, Asafoetida and stir until they change the color to golden brown/red.
       3. Transfer the contents into a bowl.
-      3. In the same pan, add more oil and add cut Dondakaya/Tindora pieces, Turmeric, Jaggery, Salt, then close the lid.
-      4. Then let them cook for 10 to 15 minutes.
-      5. Turn off stove & let them cool down.
-      6. Add ALL the ingredients into a blender, and make it into a coarse paste. Makr sure you pay attention to the texture - do not make it into a smooth paste.
-      7. Your chutney is ready!
-      
+      4. In the same pan, add more oil and add cut Dondakaya/Tindora pieces, Turmeric, Jaggery, Salt, then close the lid.
+      5. Then let them cook for 10 to 15 minutes.
+      6. Turn off stove & let them cool down.
+      7. Add ALL the ingredients into a blender, and make it into a coarse paste. Makr sure you pay attention to the texture - do not make it into a smooth paste.
+      8. Your chutney is ready!
   preparation_details: |-
       1. Wash and clean Dondakaya/Tindora
       2. Cut Dondakaya/Tindora into small pieces and keep it aside
