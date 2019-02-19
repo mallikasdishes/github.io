@@ -5,7 +5,7 @@ date: 2019-02-18
 featured_image: "http://www.mallikasdishes.com/images/coconut_chutney.jpg"
 recipe:
   title: "Coconut (Kobbari) Chutney"
-  excerpt: "Coconut Chutney (also called as Kobbari Chutney) is obviously made of fresh coconut. It has a unique texture and extremely high in fiber and tasts amazing with any breakfast items, as well with rice, rotis/chapathis, and more!"
+  excerpt: "Coconut Chutney (also called as Kobbari Chutney) is obviously made of fresh coconut. It has a unique texture, extremely high in fiber and tasts amazing with any breakfast items, as well with rice, rotis/chapathis, and more!"
   description: |-
     Coconut Chutney is an extremely famous chutney in India, and anytime you walk into the South Indian restaurants, they serve this chutnry along side of breakfast items and even on main course. This chutney is *loaded* with flavor, and when eaten with hot rice and pure ghee, it feels like you're literally in heaven!. It simply tastes that good!
     
