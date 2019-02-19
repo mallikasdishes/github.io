@@ -10,7 +10,7 @@ recipe:
   description: |-
     **Lemon Pickle** is one of the most commonly used pickles in the South Indian household. It is relatively inexpensive to make it, and will last very long time as long it is handled with care.
 
-    The pickle can be eaten raw, with rice dishes or even with Rotic/Chapathis. You can make it super hot/spicy or less spicy. It is not a quick dish to make, as with many pickles, it is a multi-day effort. 
+    The pickle can be eaten raw, with rice dishes or even with Rotis/Chapathis. You can make it super hot/spicy or less spicy. **It is not a quick dish to make, as with many pickles, it is a multi-day effort**. 
 
     One thing to note that Chutneys are different from Pickles. Chutneys don't last very long, and are meant to be eaten fresh and if you refrigerate them, you may be able to eat them for a few days. Whereas the pickles last for a very long time. In fact, for some pickles, the longer they are stored, the better they taste. 
 
@@ -20,13 +20,17 @@ recipe:
   servings: "100 Servings"
   difficulty: Medium difficulty
   ingredients_markdown: |-
-      * Oil - 2 Cups
+      * Peanut Oil - 2 Cups
       * Lemons - 8 Count
       * Fresh Lemon Juice - 4 Lemons
       * Turmeric - 1 Spoon
       * Salt - 3/4 Cup
       * Fenugreek Seeds - 1/4 Cup
       * Red Chilli Powder - 1 1/2 Cup
+      * Asafoetida - 1/2 Spoon
+      * Mustard Seeds - 1 1/2 Spoons
+      * Red Chillis - 10 to 12 Count
+      * Vegetable Oil - 2 Cups
   directions_markdown: |-
       1. Hopefully you've followed the preparation details. After waiting for a couple days...
       2. On the third day, thoroughly mix it using a dry spoon.
@@ -41,11 +45,13 @@ recipe:
       1. Wash, clean and dry all the 12 lemons. Cut 8 lemons into 8 or 9 small pieces and remove seeds. Keep the remaining 4 lemons for juice.
       2. Add salt and turmeric powder, mix well with a dry spoon.
       3. Squeeze the rest of 4 Lemons into the mix, and keep it aside for 2 full days or 48 hours - whichever comes first.
+      4. Make sure you keep a lid on it to keep insects or flies away. Remember, this website is all about being vegetarian and live a healthy life!
   other_details: |-
       1. The trick to keep the pickle last longer is to keep the moisture away. **DO NOT** use wet spoons, unclean spoons, or leave the lid open in a high humid/moist environment.
       2. Always keep the pickle in an air-tight container, and use clean utensils when serving.
       3. It is always best not to touch the pickle directly with your fingers inside the jar.
       4. Definitely, no licking and double dipping your fingers!
   additional_comments: |-
-      Seasoning - Take a frying pan, Heat 2 cups of vegetable oil and add 1 1/2 spoons of mustard seeds, 10 or 12 dried red chillies and 1/2 spoon Hing. Let the mustard seeds splutter and remove the flame and let it cool.
+      Seasoning - Take a frying pan, Heat 2 cups of vegetable oil and add 1 1/2 spoons of mustard seeds, 10 or 12 dried red chillies and 1/2 spoon Asafoetida (Hing). Let the mustard seeds splutter and remove the flame and let it cool.
+
 ---
