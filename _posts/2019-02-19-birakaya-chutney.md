@@ -2,45 +2,42 @@
 categories: 
   - Chutneys
 date: 2019-02-18
-featured_image: "http://www.mallikasdishes.com/images/birakaya_pachhadi.jpg"
+featured_image: "http://www.mallikasdishes.com/images/birakaya_chutney.jpg"
 recipe:
-  title: "Birakaya Pachhadi"
-  excerpt: "This dish mainly consists of a plant called loofah, this chutney can be eaten with idls, rotis, rice, and dosa. "
-  description: "This chutney is made out of a plant (which is edible), this tropical plant is part of the gourd family. Its spicy level can also be high 
-  if you put a lot of red chillies. This plant has a lot of health benefits, it can help with seasonal allergies, pain, treating and preventing colds, swelling,
-  and removing dead skin.
-  preventing colds, "
+  title: "Birakaya Chutney (Ridge Gourd Chutney)"
+  excerpt: "Ridge Gourd (Beerakaya in Telugu) is a vegetable that grows on a tropical vine, and belongs to the Gourd family. It looks like a zucchini, but with ridges on the skin and much bigger seeds inside."
+  description: |-
+    Ridge Gourd (Beerakaya in Telugu) is a vegetable that grows on a tropical vine, and belongs to the Gourd family. It looks like a zucchini, but with ridges on the skin and much bigger seeds inside. This plant has a lot of health benefits. It is high in fiber, has vitamin-c, zinc, iron, riboflavin...etc and helps to fight with seasonal allergies and cold.
   cook_time: "15 minutes"
   prep_time: "15 minutes"
   servings: "5 to 6 Adults"
-  difficulty: Medium difficulty
+  difficulty: "Medium difficulty"
   ingredients_markdown: |-
-      * Birakayalu - 2 medium size
-      * Sanaga pappu - 2 tsp
-      * Minapappu - 2 tsp
-      * Peanuts - 2 tsp
-      * Nuvula pappu - 1 tsp
-      * Tamarind - 1 small piece
-      * Red chillies - 5 to 6 count
-      * Oil - 3 to 5 tsp 
-      * Fenugreek seeds - 1/2 tsp
-      * Avalu - 1/2 tsp
-      * Jelakarra - 1/2 tsp
-      * Asafoetida - 1 pinch
-      * Salt - 1 1/2 tsp (Adjust to your taste)
-      * Bellam - very small piece 
+      * Ridge Gourd - 2 Count
+      * Chana Dal - 2 TSP
+      * Urad Dal - 2 TSP
+      * Peanuts - 2 TSP
+      * Nuvula pappu - 1 TSP
+      * Tamarind - Size of a small lemon
+      * Red Chillies - 5 to 6 Count
+      * Peanut Oil - 3 to 5 TSP 
+      * Fenugreek Seeds - 1/2 TSP
+      * Mustard Seeds - 1/2 TSP
+      * Jeera - 1/2 TSP
+      * Asafoetida - 1 Pinch
+      * Salt - 1 1/2 TSP (add more as needed)
+      * Jaggery - 1/2 inch Cube
   directions_markdown: |-
-      1. Take a pan and add some oil, fry all ingredients, then keep it aside.
-      2. Cut Birakayalu into small pieces (with skin).
-      3. Take some more oil and put birakaya mukkalu, salt, turmeric, and little bit of bellam, close the lid and cook 7 to 10 minutes in medium frame.
-      4. Turn off the frame.
-      5. Let them cool down for a few minutes.
-      6. Once all ingredients are cool, take a mixer jar and grind it (don't make a fine paste). 
-      7. Enjoy with Rice & Rotis.
+      1. Take a pan and add some vegetable/peanut oil, fry all ingredients, then keep it aside.
+      2. Cut the Ridge Gourd vegetable into small pieces (with skin). The skin has a lot of fiber, and no need to peel the vegetable.
+      3. Take some oil and put the cut vegetable, salt, turmeric, and little bit of Jaggery, close the lid and cook 7 to 10 minutes in medium frame.
+      4. After about 10 minutes, turn off the stove and let it cool down for a few minutes.
+      5. Now put all the contents in a blender, and make it into a coarse grain paste.
+      6. Do not make it into a paste, as you want to keep the texture and feel the fibers while you eat.
   preparation_details: |-
-      None
+      1. Make sure you wash the vegetables and clean them with a dry towel or a paper napkin.
   other_details: |-
-      None
+      1. This chutney should be refrigerated, and may last anywhere between 7 to 10 days.
   additional_comments: |-
       Additional comments, closing statement...etc
 ---
