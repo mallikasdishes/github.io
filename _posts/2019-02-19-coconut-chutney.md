@@ -2,13 +2,16 @@
 categories: 
   - Chutneys
 date: 2019-02-18
-featured_image: "http://www.mallikasdishes.com/images/kobbari_chutney.jpg"
+featured_image: "http://www.mallikasdishes.com/images/coconut_chutney.jpg"
 recipe:
-  title: "Kobbari Chutney"
-  excerpt: "Kobbari chutney is a coconut based chutney that is mainly eaten in southern India."
-  description: "This is a coconut chutney that is mainly eaten as a side to dosa and idli, as well as rice and rotis. It is not a spicy dish but it 
-  is loaded with flavor. When eaten with hot rice and ghee, it feels like you're in heaven. It need to be stored in a moisture free environment, 
-  and in an air tight container to maintain the freshness of the chutney."
+  title: "Coconut (Kobbari) Chutney"
+  excerpt: "Coconut Chutney (also called as Kobbari Chutney) is obviously made of fresh coconut. It has a unique texture and extremely high in fiber and tasts amazing with any breakfast items, as well with rice, rotis/chapathis, and more!"
+  description: |-
+    Coconut Chutney is an extremely famous chutney in India, and anytime you walk into the South Indian restaurants, they serve this chutnry along side of breakfast items and even on main course. This chutney is *loaded* with flavor, and when eaten with hot rice and pure ghee, it feels like you're literally in heaven!. It simply tastes that good!
+    
+    There is little bit of tradition and history to this chutney. According to the Hindu religion, Coconut is considered one of the purest form of fruit one can offer to God. Many families buy coconuts along with vegetables from markets, and offer coconuts to God as part of their regular prayres at home. After the prayer, they break the coconut, drink the water, and use the inner core in chutneys 😊
+    
+    Read below on how to make this wonderful chutney. It is So easy to make and tastes SO delicious!
   cook_time: "5 minutes"
   prep_time: "10 minutes"
   servings: "5 Servings"
@@ -28,10 +31,10 @@ recipe:
       1. Heat oil in pan and fry all ingredients for a few minutes. Keep it aside 
       2. Let it cool down
       3. Grind all ingredients
-      4. Grind coarse paste
-      5. Enjoy with rice and chapati!
+      4. Grind coconut coarse paste
+      5. Enjoy!
   preparation_details: |-
-      None
+      1. Cut the coconut into small pieces, and remove any hard shell that you may have
   other_details: |-
       None
   additional_comments: |-
