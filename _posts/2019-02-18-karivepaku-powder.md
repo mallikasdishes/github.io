@@ -28,7 +28,9 @@ recipe:
       * Asafoetida - 2 pinches
   other_details: "The powder doesn't last fresh after a few months - It looses its taste over the period of time. It is best to make it fresh."
   prep_time: "5 minutes"
-  preparation_details: None
+  preparation_details: |-
+    1. Wash curry leaves thoroughly and take a dry napkin and clean and let them dry.
+    2. Make sure there is no moisture on the leaves prior to frying them.
   servings: "20 Servings"
   title: "Karivepaku (Curry Leaves) Powder"
 ---
