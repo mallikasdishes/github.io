@@ -20,7 +20,7 @@ recipe:
       * Yellow Gram - 1 Cup
       * Salt - 1/3rd Cup
       * Black Gram - 2 Spoons
-      * Red Chillis - 12 Count
+      * Dried Red Chillis - 12 Count
       * Cumin Seeds - 1 Table Spoon
   directions_markdown: |-
       1. Dry roast Toor Dal, Moong Dal and Chana Dal SEPARATELY in low to medium flame until it becomes reddish brown color. **DO NOT** add any oil.
