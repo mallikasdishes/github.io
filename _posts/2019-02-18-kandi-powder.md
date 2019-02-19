@@ -4,7 +4,7 @@ categories:
 date: 2017-02-18
 featured_image: "http://www.mallikasdishes.com/images/kandi_powder.jpg"
 recipe:
-  title: "Kandi Podi (Powder)"
+  title: "Kandi Podi (Toor Dal Powder)"
   excerpt: "Kandi Podi, also known as Kandi Powder, a very famous spice in South India. It is typically eaten with Rice and if you are creative, you can find many ways to eat this with. It is basically a spicy powder, made of different kinds of lentils and spices, and full of protein."
   description: |-
       Kandi Podi, also known as Kandi Powder, a very famous spice in South India. It is typically eaten with Rice and if you are creative, you can find many ways to eat this with. It is basically a spicy powder, made of different kinds of lentils and spices, and full of protein. The spice level can be adjusted according to your needs. I personally like to make two versions of the same with different spice levels - one for kids and one for adults, who can tolerate more spiciness.
@@ -34,5 +34,6 @@ recipe:
   other_details: |-
       None
   additional_comments: |-
-      None
+      Origin of the name **Kandi Podi** comes from Telugu language, where *Podi* means *Powder*, and *Kandi Pappu* means Toor Dal. Basically *Kandi Podi* translates into *Toor Dal Powder*. just a simple name given to a dish that is extremely popular in Andhra Pradesh. I hope you try it out!
+
 ---
