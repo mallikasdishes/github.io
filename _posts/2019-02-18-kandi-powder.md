@@ -34,6 +34,6 @@ recipe:
   other_details: |-
       None
   additional_comments: |-
-      Origin of the name **Kandi Podi** comes from Telugu language, where *Podi* means *Powder*, and *Kandi Pappu* means Toor Dal. Basically *Kandi Podi* translates into *Toor Dal Powder*. just a simple name given to a dish that is extremely popular in Andhra Pradesh. I hope you try it out!
+      If you are wondering, the name **Kandi Podi** originated from Telugu language, where *Podi* means *Powder*, and *Kandi Pappu* means Toor Dal. Basically *Kandi Podi* translates into *Toor Dal Powder*. Just a simple name given to a dish that is extremely popular in Andhra Pradesh. I hope you try it out!
 
 ---
