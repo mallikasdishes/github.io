@@ -13,7 +13,7 @@ recipe:
   difficulty: Medium difficulty
   ingredients_markdown: |-
       * White Sesame Seeds - 1 Cup
-      * Red Chillies - 7 Count
+      * Dried Red Chillies - 7 Count
       * Salt - As needed
   directions_markdown: |-
       1. Dry roast Sesame Seeds in a pan until you smell nice aroma and until sesame seeds turn into brown color.
