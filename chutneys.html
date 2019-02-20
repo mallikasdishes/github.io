@@ -12,7 +12,7 @@ image_view: true
 			{% assign sortedPosts = category[1] | sort: 'title' %}
 			{% for recipe in sortedPosts %}		
 				<li>
-					<a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a> - [{{ recipe }}]
+					<a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
 				</li>
 			{% endfor %}
 			</ul>
