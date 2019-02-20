@@ -4,7 +4,7 @@ categories:
 date: 2019-02-18
 featured_image: "http://www.mallikasdishes.com/images/dondakaya_chutney.jpg"
 recipe:
-  title: "Dondakaya Chutney"
+  title: "Dondakaya (Tindora, or Ivy Gourd) Chutney"
   excerpt: "Dondakaya (Tindora, or Ivy Gourd) is a vegetable from Gourd family that grows on a vine in a tropical weather."
   description: "Dondakaya (Tindora, or Ivy Gourd) is a vegetable from Gourd family that grows on a vine in a tropical weather. The Dondakaya Chutney is typically served with Rice and/or Rotis/Chapathis."
   cook_time: "15 minutes"
