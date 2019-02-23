@@ -2,7 +2,7 @@
 categories: 
   - Powders
 date: 2019-02-18
-featured_image: "http://www.mallikasdishes.com/images/default_picture.jpg"
+featured_image: "http://www.mallikasdishes.com/images/nuvvula_powder.jpg"
 recipe:
   title: "Spicy Sesame Seed Powder (Nuvvula Podi)"
   excerpt: "This is the white sesame seeds spicy powder usually mixed with rice and eaten."
