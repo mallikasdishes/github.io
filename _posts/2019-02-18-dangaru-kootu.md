@@ -2,7 +2,7 @@
 categories: 
   - Soups
 date: 2017-01-05
-featured_image: "http://www.mallikasdishes.com/images/dangaru_kootu.jpg"
+featured_image: "http://www.mallikasdishes.com/images/default_picture.jpg"
 recipe:
   title: "Dangaru Kootu"
   excerpt: |-
