@@ -9,16 +9,14 @@ categories:
   - Snacks
   - Desserts
   - Misc
-date: 2017-01-05
+date: 2019-02-14
 featured_image: "http://www.mallikasdishes.com/images/default_picture.jpg"
 recipe:
   title: "The Title"
   excerpt: |-
     One or Two lines of text about recipe
   description: |-
-    Paragraph 1
-
-    Paragraph 2
+    Description goes here...
   cook_time: "30 minutes"
   prep_time: "20 minutes"
   servings: "5 to 6 Adults"
@@ -33,11 +31,10 @@ recipe:
       1. Step 1
       2. Step 2
   other_details: |-
-      Paragraph 1
-      
-      Paragraph 2
+      1. Detail 1
+      2. Detail 2
   additional_comments: |-
-      Paragraph 1
-      
-      Paragraph 2
+      1. Additional Detail 1
+      2. Additional Detail 2
+
 ---
