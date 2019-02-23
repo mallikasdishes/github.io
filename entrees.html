@@ -4,19 +4,4 @@ image_view: true
 ---
 <h1>Entrées</h1>
 
-{% if page.image_view %}
-	{% for category in site.categories %}
-            {% if category[0] == page.title %}
-		<div class="recipes">
-			<ul>
-			{% assign sortedPosts = category[1] | sort: 'title' %}
-			{% for recipe in sortedPosts %}		
-				<li>
-					<a href="{{ recipe.url }}"><span>{{ recipe.recipe.title }}</span></a>
-				</li>
-			{% endfor %}
-			</ul>
-		</div>
-            {% endif %}
-	{% endfor %}
-{% endif %}
+{% include recipes_by_page_title.html %}
