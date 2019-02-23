@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="drawing.svg">
+   sodipodi:docname="md-large-logo.svg">
   <title
      id="title759">mallika-logo</title>
   <defs
@@ -150,19 +150,6 @@
          operator="out"
          in2="SourceAlpha" />
     </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter5690"
-       x="-0.0061689971"
-       width="1.012338"
-       y="-0.21902137"
-       height="1.4380427">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.43088602"
-         id="feGaussianBlur5692" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5731"
@@ -209,27 +196,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="M">
-    <text
-       id="use808"
-       x="6.1395097"
-       y="16.511965"
-       font-size="483"
-       font-weight="700"
-       font-style="normal"
-       letter-spacing="0"
-       alignment-baseline="before-edge"
-       transform="matrix(1.0638339,0.00261108,-0.00295509,0.93998912,0,0)"
-       style="font-style:normal;font-weight:700;font-size:26.5212307px;line-height:100%;font-family:'Open Sans';letter-spacing:0;dominant-baseline:text-before-edge;fill:#4caf50;fill-opacity:1;stroke-width:0.05490939"
-       xml:space="preserve"
-       dominant-baseline="text-before-edge"><tspan
-         x="6.1395097"
-         dy="0"
-         alignment-baseline="before-edge"
-         dominant-baseline="text-before-edge"
-         id="tspan1077"
-         style="dominant-baseline:text-before-edge;text-anchor:start;fill:#4caf50;fill-opacity:1;stroke-width:0.05490939">m</tspan></text>
-  </g>
+     inkscape:label="M" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -253,23 +220,6 @@
       </g>
     </g>
     <g
-       id="g74"
-       transform="matrix(0.26458333,0,0,0.26458333,10.984711,197.26746)">
-      <path
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-         d="m 85.203771,338.24588 c -0.0079,0 -0.02117,0 -0.0344,0 0,-0.14552 0,-0.29898 0,-0.44979 0.01323,0 0.02646,0 0.0344,0 0,0.15081 0,0.30427 0,0.44979 z"
-         id="use68"
-         inkscape:connector-curvature="0" />
-      <g
-         id="g72">
-        <path
-           style="fill-opacity:0;stroke:#000000;stroke-width:0.26458332;stroke-opacity:0"
-           d="m 85.203771,338.24588 c -0.0079,0 -0.02117,0 -0.0344,0 0,-0.14552 0,-0.29898 0,-0.44979 0.01323,0 0.02646,0 0.0344,0 0,0.15081 0,0.30427 0,0.44979 z"
-           id="use70"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <g
        id="g82"
        transform="matrix(0.26458333,0,0,0.26458333,18.922211,197.26746)">
       <path
@@ -283,6 +233,57 @@
            style="fill-opacity:0;stroke:#000000;stroke-width:0.26458332;stroke-opacity:0"
            d="m 115.33187,338.24588 c -0.008,0 -0.0212,0 -0.0344,0 0,-0.14552 0,-0.29898 0,-0.44979 0.0132,0 0.0265,0 0.0344,0 0,0.15081 0,0.30427 0,0.44979 z"
            id="use78"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g122"
+       transform="matrix(0.26458333,0,0,0.26458333,25.93367,206.52789)">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+         d="m 65.127187,340.56628 c 0.0026,-0.0556 0.0026,-0.11378 0.0053,-0.17198 0.203729,0 0.407458,0 0.611188,0 -0.0026,0.0635 -0.0053,0.12964 -0.0053,0.19579 -0.203729,-0.008 -0.407458,-0.0159 -0.611188,-0.0238 z"
+         id="use116"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g120">
+        <path
+           style="fill-opacity:0;stroke:#000000;stroke-width:0.26458332;stroke-opacity:0"
+           d="m 65.127187,340.56628 c 0.0026,-0.0556 0.0026,-0.11378 0.0053,-0.17198 0.203729,0 0.407458,0 0.611188,0 -0.0026,0.0635 -0.0053,0.12964 -0.0053,0.19579 -0.203729,-0.008 -0.407458,-0.0159 -0.611188,-0.0238 z"
+           id="use118"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g138"
+       transform="matrix(0.26458333,0,0,0.26458333,18.922211,197.26746)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         d="m 115.33187,338.24588 c -0.008,0 -0.0212,0 -0.0344,0 0,-0.14552 0,-0.29898 0,-0.44979 0.0132,0 0.0265,0 0.0344,0 0,0.15081 0,0.30427 0,0.44979 z"
+         id="use132"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g136">
+        <path
+           style="fill-opacity:0;stroke:#000000;stroke-width:0.26458332;stroke-opacity:0"
+           d="m 115.33187,338.24588 c -0.008,0 -0.0212,0 -0.0344,0 0,-0.14552 0,-0.29898 0,-0.44979 0.0132,0 0.0265,0 0.0344,0 0,0.15081 0,0.30427 0,0.44979 z"
+           id="use134"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g74"
+       transform="matrix(0.26458333,0,0,0.26458333,10.984711,197.26746)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         d="m 85.203771,338.24588 c -0.0079,0 -0.02117,0 -0.0344,0 0,-0.14552 0,-0.29898 0,-0.44979 0.01323,0 0.02646,0 0.0344,0 0,0.15081 0,0.30427 0,0.44979 z"
+         id="use68"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g72">
+        <path
+           style="fill-opacity:0;stroke:#000000;stroke-width:0.26458332;stroke-opacity:0"
+           d="m 85.203771,338.24588 c -0.0079,0 -0.02117,0 -0.0344,0 0,-0.14552 0,-0.29898 0,-0.44979 0.01323,0 0.02646,0 0.0344,0 0,0.15081 0,0.30427 0,0.44979 z"
+           id="use70"
            inkscape:connector-curvature="0" />
       </g>
     </g>
@@ -338,23 +339,6 @@
       </g>
     </g>
     <g
-       id="g122"
-       transform="matrix(0.26458333,0,0,0.26458333,25.93367,206.52789)">
-      <path
-         style="fill:#000000;fill-opacity:1;stroke-width:0.26458332"
-         d="m 65.127187,340.56628 c 0.0026,-0.0556 0.0026,-0.11378 0.0053,-0.17198 0.203729,0 0.407458,0 0.611188,0 -0.0026,0.0635 -0.0053,0.12964 -0.0053,0.19579 -0.203729,-0.008 -0.407458,-0.0159 -0.611188,-0.0238 z"
-         id="use116"
-         inkscape:connector-curvature="0" />
-      <g
-         id="g120">
-        <path
-           style="fill-opacity:0;stroke:#000000;stroke-width:0.26458332;stroke-opacity:0"
-           d="m 65.127187,340.56628 c 0.0026,-0.0556 0.0026,-0.11378 0.0053,-0.17198 0.203729,0 0.407458,0 0.611188,0 -0.0026,0.0635 -0.0053,0.12964 -0.0053,0.19579 -0.203729,-0.008 -0.407458,-0.0159 -0.611188,-0.0238 z"
-           id="use118"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <g
        id="g130"
        transform="matrix(0.26458333,0,0,0.26458333,10.984711,197.26746)">
       <path
@@ -368,23 +352,6 @@
            style="fill-opacity:0;stroke:#000000;stroke-width:0.26458332;stroke-opacity:0"
            d="m 85.203771,338.24588 c -0.0079,0 -0.02117,0 -0.0344,0 0,-0.14552 0,-0.29898 0,-0.44979 0.01323,0 0.02646,0 0.0344,0 0,0.15081 0,0.30427 0,0.44979 z"
            id="use126"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <g
-       id="g138"
-       transform="matrix(0.26458333,0,0,0.26458333,18.922211,197.26746)">
-      <path
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-         d="m 115.33187,338.24588 c -0.008,0 -0.0212,0 -0.0344,0 0,-0.14552 0,-0.29898 0,-0.44979 0.0132,0 0.0265,0 0.0344,0 0,0.15081 0,0.30427 0,0.44979 z"
-         id="use132"
-         inkscape:connector-curvature="0" />
-      <g
-         id="g136">
-        <path
-           style="fill-opacity:0;stroke:#000000;stroke-width:0.26458332;stroke-opacity:0"
-           d="m 115.33187,338.24588 c -0.008,0 -0.0212,0 -0.0344,0 0,-0.14552 0,-0.29898 0,-0.44979 0.0132,0 0.0265,0 0.0344,0 0,0.15081 0,0.30427 0,0.44979 z"
-           id="use134"
            inkscape:connector-curvature="0" />
       </g>
     </g>
@@ -452,17 +419,17 @@
            x="150.9673"
            y="80.601242"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ink Free';-inkscape-font-specification:'Ink Free'" /></flowRegion><flowPara
-         id="flowPara731"></flowPara></flowRoot>    <text
+         id="flowPara731" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Ink Free';-inkscape-font-specification:'Ink Free';letter-spacing:0px;word-spacing:0px;fill:#4caf50;fill-opacity:1;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:7.25;font-family:'Ink Free';-inkscape-font-specification:'Ink Free';letter-spacing:0px;word-spacing:0px;fill:#4caf50;fill-opacity:1;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
        x="49.721329"
        y="283.49246"
        id="text735"><tspan
          sodipodi:role="line"
          x="49.721329"
          y="283.49246"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:15.25;font-family:'Ink Free';-inkscape-font-specification:'Ink Free';fill:#4caf50;fill-opacity:1;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
-         id="tspan737">mallika's dishes.com</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888889px;line-height:15.25;font-family:'Ink Free';-inkscape-font-specification:'Ink Free';fill:#4caf50;fill-opacity:1;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
+         id="tspan737">Mallika's dishes.com</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Ink Free';-inkscape-font-specification:'Ink Free';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.75879395;stroke:none;stroke-width:0.26458332;"
@@ -476,6 +443,17 @@
          id="tspan737-3"><tspan
    style="line-height:29.25;fill:#000000;fill-opacity:0.75879395;"
    id="tspan1134">w</tspan>elcome to</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Ink Free';-inkscape-font-specification:'Ink Free';letter-spacing:0px;word-spacing:0px;fill:#4caf50;fill-opacity:1;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
+       x="48.241745"
+       y="292.76593"
+       id="text735-0"><tspan
+         sodipodi:role="line"
+         x="48.241745"
+         y="302.23459"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:15.25;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script';fill:#4caf50;fill-opacity:1;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
+         id="tspan737-7" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
