@@ -2,7 +2,7 @@
 categories: 
   - Pickles
 date: 2017-01-05
-featured_image: "http://www.mallikasdishes.com/images/default_picture.jpg"
+featured_image: "http://www.mallikasdishes.com/images/lemon_pickle.jpg"
 recipe:
   title: Lemon Pickle
   excerpt: |-
