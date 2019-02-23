@@ -58,6 +58,6 @@ recipe:
       4. Take a small cube of Tamarind, remove the seeds, and make it into a puree by blending it in a mixture by adding a little bit of water. 
       5. Chop the Cilantro into small pieces - don't chop the Cilantro into extremely small pieces - you want to be able to feel the cilantro in the dish!
     other_details: |-
-      Vangi bath has a unique taste of a little bit tanginess taste because of tamarind puree. If you prefre not to have that tanginess, you can skip adding Tamarind puree.
-      Make sure you server the food hot, and also serve the yogurt based side dish, Raita! 
+      The Tamarind Puree adds a bit of tanginess, and if you prefre not to have that, you can skip adding Tamarind puree.
+      Make sure you serve Vangibath hot, and also serve the yogurt based side-dish, Raita! 
 ---
