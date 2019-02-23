@@ -2,7 +2,7 @@
 categories: 
   - Chutneys
 date: 2019-02-18
-featured_image: "http://www.mallikasdishes.com/images/birakaya_chutney.jpg"
+featured_image: "http://www.mallikasdishes.com/images/default_picture.jpg"
 recipe:
   title: "Birakaya Chutney (Ridge Gourd Chutney)"
   excerpt: "Ridge Gourd (Beerakaya in Telugu) is a vegetable that grows on a tropical vine, and belongs to the Gourd family. It looks like a zucchini, but with ridges on the skin and much bigger seeds inside."
