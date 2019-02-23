@@ -38,8 +38,8 @@ recipe:
       6. Keep mixing the contents for aout 20 minutes or so! **DO NOT** cut corners here! You want all the moisture to evaporate and puree to be a thick paste!
       7. After 20 to 25 minutes, you will start to notice the paste becomes much thicker, and that's when you want to turn the stove off. 
       8. Let it cool down for a few minutes. Transfer the contents to another dish.
-      9. Take another frying pan and fry fenugreek seeds in low frame **without oil** until the seess turn into brown color. 
-      10. Once the seeds are in golden brown color, turn off the stove, let it cool and after that, blend it into a fine powder.
+      9. Take another frying pan and fry fenugreek seeds in low frame **without oil** until the seeds turn into golden brown/dark brown color. 
+      10. Once the seeds are in golden brown/darker brown color, turn off the stove, let it cool. After that, blend it into a fine powder.
       11. Now add Fenugreek Seeds powder and Dried Red Chilli Powder to the the Tomato paste that you made earlier
       12. Time to add seasoning - take another small pan, pour some oil and turn on heat, and once the oil is hot enough, add Mustard Seeds, Cumim Seeds, Curry Leaves, Urad Dal, Red Chillies pieces, Asafoetida.
       13. Turn the stove off add curry leaves. Pour all tempering on the tomato pickle.
