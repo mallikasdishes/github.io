@@ -25,7 +25,7 @@ recipe:
           * Mustard seeds - 1 tsp
           * Cumin seeds - 1 tsp
           * Urad dal - 1 1/2 tsp
-          * Dry red chillies - 4 to 5 count
+          * Dried Red Chillies - 4 to 5 count
           * Curry Leaves - 4 to 5 leaves
           * Asafoetida - 1/2 tsp
           * Turmeric - 2 tsp
