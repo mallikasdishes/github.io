@@ -2,7 +2,7 @@
 categories: 
   - Powders
 date: 2017-02-18
-featured_image: "http://www.mallikasdishes.com/images/default_picture.jpg"
+featured_image: "http://www.mallikasdishes.com/images/mysore_rasam_powder.jpg"
 recipe:
   title: "Mysore Rasam Powder"
   excerpt: "Mysore Rasam is a South Indian dish, basically a spicy soup that is made of various spices and lentil/peas..."
