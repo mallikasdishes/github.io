@@ -2,7 +2,7 @@
 categories: 
   - Powders
 date: 2017-02-18
-featured_image: "http://www.mallikasdishes.com/images/rasam_powder.jpg"
+featured_image: "http://www.mallikasdishes.com/images/default_picture.jpg"
 recipe:
   title: Rasam Powder
   excerpt: "Rasam Powder is one of the key ingredients of making Rasam, a spicy soup that is eaten with Rice, Idlis and other breakfast items."
