@@ -2,7 +2,7 @@
 categories:
   - Pickles
 date: 2019-02-19
-featured_image: "http://www.mallikasdishes.com/images/default_picture.jpg"
+featured_image: "http://www.mallikasdishes.com/images/tomato_pickle.jpg"
 recipe:
     title: "Tomato Pickle"
     excerpt: |-
