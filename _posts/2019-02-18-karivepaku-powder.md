@@ -2,7 +2,7 @@
 categories: 
   - Powders
 date: 2019-02-18
-featured_image: "http://www.mallikasdishes.com/images/default_picture.jpg"
+featured_image: "http://www.mallikasdishes.com/images/curryleaves_powder.jpg"
 recipe: 
   additional_comments: "Karivepaku (Curry Leaves) powder is made of green leaves, and goes well with rice and other items like Dosas and Idlis."
   cook_time: "15 minutes"
