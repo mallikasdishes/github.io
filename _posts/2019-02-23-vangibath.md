@@ -36,7 +36,7 @@ recipe:
       * Urad Dal - 1 tbsp
       * Dried Red Chillies - 5 count
     directions_markdown: |-
-      If you decided to make your own Vangibath masala powder, follow the stepe below.
+      To make your own Vangibath masala powder, follow the steps below. You can make Vangibath masala powder and re-use it at a later time! The powder can last for a month or two without losing its flavor or smell as long as you store it in an air-tight container.
         1. In a pan, add 2 tsp of oil and heat it up.
         2. After the Oil is hot enough, add Urad Dal, Channa Dal, Cloves, Cinnamon, Cordamom, Poppy seeds and fry them.
         3. Once those ingredients turn to golden red color, Add Dried Red Chillies, Dry Grated Coconut, Coriander Seeds and fry 1 or 2 minutes.
@@ -44,7 +44,7 @@ recipe:
         5. Put the contents in a belnder, and make it into a coarse powder/mixture
         6. The Vangibath masala powder is now ready! Time to make the actual Vangibath now...
       
-      Now that the Vangibath masala is ready, it is time to bring all the ingredients together to make the dish.
+      Now that you have the Vangibath Masala powder, let's bring all the ingredients together to make the final dish. It is recommended you take a large pan as you are going to be adding all the ingredients including cooked Basmati Rice. The bigger the pan you have, the better and easier to mix the contents. 
         1. Heat some oil in a pan, add Mustard Seeds and Cumin Seeds, once it starts to sputter, add Eggplant pieces, Salt, and Turmeric and mix well with spatula.
         2. Cover with lid and let them cook on medium low frame till eggplant pieces are nice and tender.
         3. Once contents cooked well, turn the frame to low and add **Vangibath Masala** powder. Mix well and cook for few more minutes without closing lid.
@@ -59,4 +59,5 @@ recipe:
       5. Chop the Cilantro into small pieces - don't chop the Cilantro into extremely small pieces - you want to be able to feel the cilantro in the dish!
     other_details: |-
       Vangi bath has a unique taste of a little bit tanginess taste because of tamarind puree. If you prefre not to have that tanginess, you can skip adding Tamarind puree.
+      Make sure you server the food hot, and also serve the yogurt based side dish, Raita! 
 ---
