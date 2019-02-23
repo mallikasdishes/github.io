@@ -2,7 +2,7 @@
 categories: 
   - Powders
 date: 2019-02-19
-featured_image: "http://www.mallikasdishes.com/images/spicy_cilantro_powder.jpg"
+featured_image: "http://www.mallikasdishes.com/images/default_picture.jpg"
 recipe:
   title: "Spicy Kottimeera (Cilantro) Powder"
   excerpt: |-
