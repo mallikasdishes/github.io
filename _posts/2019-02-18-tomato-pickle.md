@@ -11,7 +11,7 @@ recipe:
       Tomato Pickle is one of the most common pickles of the Indian household, and when prepared right, it really wakes up your taste buds! It it a pickle that can last very long time and the spice levels can be adjusted. Like many Indian foods, it has a bit of everything - spiciness, sourness, sweetness and enough salt to preserve it for long time!
     cook_time: "40 minutes"
     prep_time: "10 minutes"
-    servings: "5 to 6 Adults"
+    servings: "50 servings"
     difficulty: Medium difficulty
     ingredients_markdown: |-
       * Tomatoes - 12 count
