@@ -20,7 +20,7 @@ recipe:
       * Peanut Oil - 5 to 7 tbsp
       * Tamarind - 1 tbsp
       * Jaggery - 1 tsp (Optional)
-      * For Seasoning 
+      * **Ingredients for Seasoning:**
           * Oil - 1 tbsp
           * Mustard seeds - 1 tsp
           * Cumin seeds - 1 tsp
