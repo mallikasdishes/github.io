@@ -2,7 +2,7 @@
 categories: 
   - Soups
 date: 2017-02-18
-featured_image: "http://www.mallikasdishes.com/images/mysore_rasam.jpg"
+featured_image: "http://www.mallikasdishes.com/images/default_picture.jpg"
 recipe:
   title: "Mysore Rasam"
   excerpt: "**Mysore Rasam** is a South Indian dish, basically a spicy soup that is made of various spices and lentil/peas. The name Mysore Rasam was given to this dish possibly because it was originated from Mysore, a prominent place in South India. If you are a spice lover, this is a must try dish, and is typically served with Rice, and also served with other breakfast items like Idli, Dosa, Pongal…more!"
