@@ -8,7 +8,7 @@ recipe:
     excerpt: |-
       This Eggplant Curry (Guttivankaya Curry) is an extremely famous dish in South India. This curry is a standard in virtually every celebrations, and weddings!
     description: |-
-      Eggplant is called King of all the vegetables - not just because it has crown, but the fact that it can be cooked in so many different ways and still taste absolutely delicious! There are many ways people cook egg plant curries, this particular method is famous because of the way it is prepared and cooked. This method takes up a little bit more time than the traditional way of frying or cooking, but the taste can be extremely addicting!
+      Eggplant is called King of all the vegetables - not just because it has crown, but the fact that it can be cooked in so many different ways and still taste absolutely delicious! There are many ways people cook eggplant curries, this particular method is famous because of the way it is prepared and cooked. This method takes up a little bit more time than the traditional way of frying or cooking, but the taste can be extremely addicting!
 
       There are several sizes of Eggplants available in the market these days. For this curry, you need the smallest size Eggplants available. The big Eggplants are usually juicy and contain a lot of water. You want to pick the ones that are small in size.
     cook_time: "30 minutes"
@@ -44,8 +44,8 @@ recipe:
       5. Turn off the stove, and let all the spices cool down for a few minutes.
       6. Put all of the spices, Onions, Salt, Jaggery, Tamarind Puree, Turmeric and Water (Do not add too much) into a mixer jar. 
       7. Blend the contents until they become **thick paste**. This curry masala should be a thick paste and not watery as you will be taking spoonful and put it inside the eggplants. 
-      8. Slice all egg plants in a cross-hair pattern on the bottom (do not cut all the wayand keep stems) - you just need a little bit of opening, so that you can put in the masala.
-      9. Now stuff the prepared thick masala paste to all the egg plants and keep it aside.
+      8. Slice all eggplants in a cross-hair pattern on the bottom (do not cut all the wayand keep stems) - you just need a little bit of opening, so that you can put in the masala.
+      9. Now stuff the prepared thick masala paste to all the eggplants and keep it aside.
       10. In a large pan, heat 5 tbsb oil and add the stuffed eggplants in that pan, spinkle 1/4 water and close the lid. The flame should be at medium heat. Do not put too much water, you need just enough water to cook eggplants, and not make it like a soup.
       11. Let it cook for about 5 to 7 minutes then gently mix the contents. Don't be too aggressive in mixing, as you may break the cooked eggplants. You want to keep them as-is but cooked with yummy masala inside.
       12. When you start seeing oil floating to the top, that's when you know it is cooked completely.
