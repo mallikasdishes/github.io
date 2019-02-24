@@ -2,7 +2,7 @@
 categories:
    - Curries
 date: 2019-02-23
-featured_image: "http://www.mallikasdishes.com/images/default_picture.jpg"
+featured_image: "http://www.mallikasdishes.com/images/eggplant_curry.jpg"
 recipe:
     title: "Eggplant Curry (Guttivankaya/Brinjal Curry)"
     excerpt: |-
