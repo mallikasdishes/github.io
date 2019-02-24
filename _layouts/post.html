@@ -52,7 +52,8 @@ layout: default
 		{{ content }}
 	</div>
 
-	{% if page.recipe.slideshow_images %} 
+	{% if page.recipe.slideshow_images %}
+	<h2>Additional Pictures</h2> 
 	<div class="w3-content" style="max-width:780">
 	  {% for image_url in page.recipe.slideshow_images %}<img class="mySlides" src="{{ image_url }}" style="width:100%">{% endfor %}
 	</div>
