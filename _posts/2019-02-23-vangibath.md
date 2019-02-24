@@ -2,7 +2,7 @@
 categories: 
   - Entrees
 date: 2019-02-23
-featured_image: "http://www.mallikasdishes.com/images/default_picture.jpg"
+featured_image: "http://www.mallikasdishes.com/images/long_eggplants.jpg"
 recipe:
     title: "Vangibath (Eggplant Rice)"
     excerpt: |-
