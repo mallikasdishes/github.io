@@ -34,4 +34,9 @@ recipe:
       None
   additional_comments: |-
       Make sure you store it in a air-tight container after cooling it down.
+  slideshow_images:
+    - http://www.mallikasdishes.com/images/raw_mangoes.jpg
+    - http://www.mallikasdishes.com/images/lemon_pickle.jpg
+    - http://www.mallikasdishes.com/images/tamarind_raw_chutney.jpg
+
 ---
