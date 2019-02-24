@@ -11,6 +11,7 @@ recipe:
   prep_time: "5 minutes"
   servings: "15 servings"
   difficulty: Medium difficulty
+  alert: true
   ingredients_markdown: |-
       * Bengal Gram - 1 Cup
       * Black Gram - 1 Cup
