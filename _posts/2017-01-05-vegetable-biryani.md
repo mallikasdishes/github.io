@@ -51,7 +51,6 @@ recipe:
     - http://www.mallikasdishes.com/images/ingredients/cardamom.jpg
     - http://www.mallikasdishes.com/images/ingredients/bay_leaves.jpg
     - http://www.mallikasdishes.com/images/ingredients/coriander_seeds.jpg
-    - http://www.mallikasdishes.com/images/ingredients/cumin_powder.jpg
     - http://www.mallikasdishes.com/images/ingredients/cashews.jpg
     
 ---
