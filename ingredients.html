@@ -1,0 +1,17 @@
+---
+title: Ingredients in English, Hindi and Telugu
+---
+<h1>{{ page.title }}</h1>
+
+<table>
+<tr>
+<th>English</th><th>Hindi</th><th>Telugu</th>
+</tr>
+{% for i in site.data.ingredients %}
+<tr>
+  <td>{{ i.english }}</td>
+  <td>{{ i.hindi }}</td>
+  <td>{{ i.telugu }}</td>
+</tr>
+{% endfor %}
+</table>
