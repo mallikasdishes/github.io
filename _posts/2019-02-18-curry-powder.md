@@ -12,8 +12,8 @@ recipe:
   servings: "15 servings"
   difficulty: Medium difficulty
   ingredients_markdown: |-
-      * Bengal Gram - 1 Cup
-      * Black Gram - 1 Cup
+      * Chana Dal - 1 Cup
+      * Urad Dal - 1 Cup
       * Peanuts - 1 Tablespoon
       * White Sesame Seeds - ½ Cup
       * Coriander Seeds - 1 Cup
@@ -35,8 +35,14 @@ recipe:
   additional_comments: |-
       Make sure you store it in a air-tight container after cooling it down.
   slideshow_images:
-    - http://www.mallikasdishes.com/images/raw_mangoes.jpg
-    - http://www.mallikasdishes.com/images/lemon_pickle.jpg
-    - http://www.mallikasdishes.com/images/tamarind_raw_chutney.jpg
+    - http://www.mallikasdishes.com/images/ingredients/chana_dal.jpg
+    - http://www.mallikasdishes.com/images/ingredients/urad_dal.jpg
+    - http://www.mallikasdishes.com/images/ingredients/peanuts.jpg
+    - http://www.mallikasdishes.com/images/ingredients/coriander_seeds.jpg
+    - http://www.mallikasdishes.com/images/ingredients/sesame_seeds.jpg
+    - http://www.mallikasdishes.com/images/ingredients/jeera.jpg
+    - http://www.mallikasdishes.com/images/ingredients/menthulu.jpg
+    - http://www.mallikasdishes.com/images/ingredients/dried_red_chillis.jpg
+    - http://www.mallikasdishes.com/images/ingredients/
 
 ---
