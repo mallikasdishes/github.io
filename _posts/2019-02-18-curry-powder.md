@@ -40,7 +40,7 @@ recipe:
     - http://www.mallikasdishes.com/images/ingredients/peanuts.jpg
     - http://www.mallikasdishes.com/images/ingredients/coriander_seeds.jpg
     - http://www.mallikasdishes.com/images/ingredients/sesame_seeds.jpg
-    - http://www.mallikasdishes.com/images/ingredients/jeera.jpg
+    - http://www.mallikasdishes.com/images/ingredients/cumin_seeds.jpg
     - http://www.mallikasdishes.com/images/ingredients/menthulu.jpg
     - http://www.mallikasdishes.com/images/ingredients/dried_red_chillis.jpg
 
