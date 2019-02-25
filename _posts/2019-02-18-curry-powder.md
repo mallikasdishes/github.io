@@ -36,13 +36,12 @@ recipe:
       Make sure you store it in a air-tight container after cooling it down.
   slideshow_images:
     - http://www.mallikasdishes.com/images/ingredients/chana_dal.jpg
-    - http://www.mallikasdishes.com/images/ingredients/urad_dal.jpg
+    - http://www.mallikasdishes.com/images/ingredients/urad_dal_split.jpg
     - http://www.mallikasdishes.com/images/ingredients/peanuts.jpg
     - http://www.mallikasdishes.com/images/ingredients/coriander_seeds.jpg
     - http://www.mallikasdishes.com/images/ingredients/sesame_seeds.jpg
     - http://www.mallikasdishes.com/images/ingredients/jeera.jpg
     - http://www.mallikasdishes.com/images/ingredients/menthulu.jpg
     - http://www.mallikasdishes.com/images/ingredients/dried_red_chillis.jpg
-    - http://www.mallikasdishes.com/images/ingredients/
 
 ---
