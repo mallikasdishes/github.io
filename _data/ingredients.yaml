@@ -1,16 +1,17 @@
-jeera:
-  hindi: Jeera
-  telugu: Jeela Karra
-  english: Cumin Seeds
-chana_dal:
-  hindi: Chana Dal
-  telugu: Sanaga Pappu
-  english: Split Chickpeas
-urad_dal:
-  hindi: Urad Dal
-  telugu: Minapa Pappu
-  english: Split Black gram
-poha:
-  hindi: Poha
-  english: beaten Rice
-  telugu: Atukulu
+items:
+  jeera:
+    hindi: Jeera
+    telugu: Jeela Karra
+    english: Cumin Seeds
+  chana_dal:
+    hindi: Chana Dal
+    telugu: Sanaga Pappu
+    english: Split Chickpeas
+  urad_dal:
+    hindi: Urad Dal
+    telugu: Minapa Pappu
+    english: Split Black gram
+  poha:
+    hindi: Poha
+    english: beaten Rice
+    telugu: Atukulu
