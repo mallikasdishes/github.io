@@ -1,12 +1,21 @@
-- hindi: Jeera
-  telugu: Jeela Karra
-  english: Cumin Seeds
+- hindi: Toor Dal
+  english: Pigeon Pea
+  telugu: Kandi Pappu
 - hindi: Chana Dal
   telugu: Sanaga Pappu
   english: Split Chickpeas
 - hindi: Urad Dal
   telugu: Minapa Pappu
   english: Split Black gram
+- hindi: Moong Dal
+  telugu: Pesara pappu
+  english: Yellow gram
+- hindi: Masoor Dal
+  english: Red Lentils
+  telugu: Erra Kandi pappu
+- hindi: Jeera
+  telugu: Jeela Karra
+  english: Cumin Seeds
 - hindi: Poha
   english: beaten Rice
   telugu: Atukulu
@@ -28,12 +37,6 @@
 - hindi: Suji/Rava
   english: Semolina
   telugu: Ravva
-- hindi: Masoor dal
-  english: Red Lentils
-  telugu: Erra Kandi pappu
-- hindi: Toor Dal
-  english: Pigeon Pea
-  telugu: Kandi Pappu
 - hindi: Ilāyachī
   english: cardamom
   telugu: Yalukulu
