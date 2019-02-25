@@ -45,4 +45,13 @@ recipe:
   additional_comments: |-
     In a rice cooker, add soaked Biryani rice, 7 ½ cups of water (as a general guide, for each cup of rice, use 1 ½ cup of water to cook evenly), Biryani mixture, remaining salt and leave the cooker ON for about 30 minutes. Mix the contents in the cooker ONCE after 15 minutes or so for nice even cooking.
     The Biryani is now ready. Serve it with a side dish - either Potato Masala Curry or Raita.
+  slideshow_images:
+    - http://www.mallikasdishes.com/images/ingredients/cinnamon.jpg
+    - http://www.mallikasdishes.com/images/ingredients/cloves.jpg
+    - http://www.mallikasdishes.com/images/ingredients/cardamom.jpg
+    - http://www.mallikasdishes.com/images/ingredients/bay_leaves.jpg
+    - http://www.mallikasdishes.com/images/ingredients/coriander_seeds.jpg
+    - http://www.mallikasdishes.com/images/ingredients/cumin_powder.jpg
+    - http://www.mallikasdishes.com/images/ingredients/cashews.jpg
+    
 ---
