@@ -14,20 +14,15 @@
 	  {% else %}
 		<a href="/">Home</a>
 	  {% endif %}
+	  {% if page.url == "/ingredients/" %}
+		<a href="/ingredients/" class="active">Ingredients</a>
+	  {% else %}
+		<a href="/ingredients/">Ingredients</a>
+	  {% endif %}
 	  {% if page.url == "/about/" %}
 		<a href="/about/" class="active">About</a>
 	  {% else %}
 		<a href="/about/">About</a>
-	  {% endif %}
-	  {% if page.url == "/contact/" %}
-		<a href="/contact/" class="active">Contact</a>
-	  {% else %}
-		<a href="/contact/">Contact</a>
-	  {% endif %}
-	  {% if page.url == "/disclaimer/" %}
-		<a href="/disclaimer/" class="active">Disclaimer</a>
-	  {% else %}
-		<a href="/disclaimer/">Disclaimer</a>
 	  {% endif %}
     </div>
   </div>
