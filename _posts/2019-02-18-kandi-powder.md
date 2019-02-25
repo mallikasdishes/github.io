@@ -17,9 +17,9 @@ recipe:
   ingredients_markdown: |-
       * Toor Dal - 1 Cup
       * Chana Dal - 1 Cup
-      * Yellow Gram - 1 Cup
+      * Moong Dal - 1 Cup
       * Salt - 1/3rd Cup
-      * Black Gram - 2 Spoons
+      * Urad Dal - 2 Spoons
       * Dried Red Chillis - 12 Count
       * Cumin Seeds - 1 Table Spoon
   directions_markdown: |-
