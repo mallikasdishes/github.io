@@ -3,12 +3,6 @@ layout: default
 ---
 <style>
 .mySlides {display:none}
-.top-center {
-  position: absolute;
-  top: 8px;
-  background-color: #efecec30;
-  width: 100%;
-}
 </style>
 
 <article class="post">
@@ -60,7 +54,7 @@ layout: default
 	{% if page.recipe.slideshow_images %}
 	<h2>Additional Pictures </h2> 
 	<div class="w3-content" style="max-width:780">
-	  {% for image_url in page.recipe.slideshow_images %}<img class="mySlides" src="{{ image_url }}" style="width:100%"><div class="top-center">Description of Image Goes Here</div>{% endfor %}
+	  {% for image_url in page.recipe.slideshow_images %}<img class="mySlides" src="{{ image_url }}" style="width:100%">{% endfor %}
 	</div>
 	<div class="w3-center">
   	  <div class="w3-section">
